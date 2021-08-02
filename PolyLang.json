@@ -492,7 +492,6 @@
   "wcontroller.examine.water": "You encountered a band of friendly pirates who joined your tribe!",
   "wcontroller.examine.water.title": "Battleship!",
   "wcontroller.examine.giant": "You found a friendly {0} who joined your tribe!",
-  "wcontroller.examine.giant.title": "Allies!",
   "wcontroller.examine.explorer": "You meet some locals who show you the surrounding lands.",
   "wcontroller.examine.explorer.title": "Explorer",
   "wcontroller.examine.tech": "You found some old scrolls containing the secret of {0}.",
