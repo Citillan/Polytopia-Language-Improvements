@@ -209,8 +209,6 @@
   "tribes.cymanti": "Cymanti",
   "tribes.cymanti.info": "The {0} are a breakout group of Polytopians who moved to the swampy forests and learned to live with the Ciru Bug, which attaches to their faces and merges with their brains. \n\nLed by their Shaman, the Cymanti train gigantic bugs, use their enemies to fertilize their fungi farms, and utilize crippling poisons to vanquish all who would threaten their marshy home! \n\n{0} starts the game with the '{1}' tech.",
 
-",
-
   "building.capital.owner": "{0} is the {1} capital",
   "building.capital.owner.former": "{0} is the former capital of the {1} empire, currently occupied by {2} forces",
   "building.city.owner": "{0} is a city in the {1} empire",
@@ -334,19 +332,17 @@
   "unit.abilities.fortify": "Fortify",
   "unit.abilities.explode": "Explode",
   "unit.abilities.independent": "Independent",
-
   "player.abilities.destroy": "destroy",
   "player.abilities.disband": "disband",
   "player.abilities.literacy": "literacy",
   "player.abilities.glide": "glide",
-
+  "player.abilities.decompose": "decompose",
   "resource.names.fruit": "fruit",
   "resource.names.crop": "crop",
   "resource.names.fish": "fish",
   "resource.names.whale": "whale",
   "resource.names.game": "wild animal",
   "resource.names.metal": "metal",
-
   "terrain.unknown": "Unknown lands",
   "terrain.water": "Water",
   "terrain.ocean": "Ocean",
