@@ -212,8 +212,7 @@
   "tribes.polaris.info": "The {0} have lain trapped in the far reaches of the freezing tundra for eons, but were blessed by the magic of the strange and otherworldly Gaami with powers to expand their unnatural icy terrain farther than the weather permits. \n\nWith the might of sleds and Mamoos, the mystical {0} are determined to entomb the Square in ice and transform the land into a frigid paradise. \n\n{0} starts the game with the '{1}' tech and the ability to freeze surrounding terrain with moonis.",
   "tribes.cymanti": "Cymanti",
   "tribes.cymanti.info": "The {0} are a breakout group of Polytopians who moved into the unknown and learned to live with the Ciru Bug, which attaches to their faces and merges with their brains. \n\nLed by their Shaman, the {0} train gigantic bugs and use their enemies to fertilize their fungi farms to vanquish all who would threaten their marshy home! \n\n{0} starts the game with the '{1}' tech and the power to unleash crippling poisoning and powerful boosting effects.",
-  "tribes.KTR": "Project KTR",
-  "tribes.KTR.info": "Descrtiption still being worked on.",
+  
 
   "building.capital.owner": "{0} is the {1} capital",
   "building.capital.owner.former": "{0} is the former capital of the {1} empire, currently occupied by {2} forces",
@@ -341,8 +340,6 @@
   "unit.ability.independent": "Independent",
   "unit.ability.boost": "Boost",
   "unit.ability.eat": "Eat",
-  "unit.ability.ice_boost": "Polar Boost",
-  "unit.ability.city_guard": "Stay",
 
   
   "player.abilities.destroy": "destroy",
@@ -447,8 +444,6 @@
   "tooltip.ability.independent": "This unit doesnt use up a population slot or belongs to any city.",
   "tooltip.ability.boost": "This unit can increases the movement and attack of surrounding allied units.",
   "tooltip.ability.eat": "this unit grows in length whenever it kills its victim.",
-  "tooltip.ability.ice_boost": "this unit has its movement, attack, and defence incresed by +1 and gains the dash ability in icy terrain.",
-  "tooltip.ability.city_guard": "if this unit is in a city wall, this unit can attack again immediately after killing an enemy unit. while active, this unit can't move.",
 
 
   "buttons.ok": "OK",
