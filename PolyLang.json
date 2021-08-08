@@ -447,7 +447,7 @@
   "tooltip.ability.independent": "This unit doesnt use up a population slot or belongs to any city.",
   "tooltip.ability.boost": "This unit can increases the movement and attack of surrounding allied units.",
   "tooltip.ability.eat": "this unit grows in length whenever it kills its victim.",
-  "tooltip.ability.ice_boost": "this unit has its movement, attack, and defence incresed by +1 and gains the dash ability in icy terrain".
+  "tooltip.ability.ice_boost": "this unit has its movement, attack, and defence incresed by +1 and gains the dash ability in icy terrain.",
   "tooltip.ability.city_guard": "if this unit is in a city wall, this unit can attack again immediately after killing an enemy unit. while active, this unit can't move.",
 
 
