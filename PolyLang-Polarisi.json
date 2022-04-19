@@ -213,12 +213,12 @@
   "tribes.yadakk.info": "The {0} started out as a nomadic tribe in the beautiful Khalee plains. Now that they managed to settle, they have now become are the traders of the square, connecting their empire with impressive trade routes. \n\n{0} starts the game with the '{1}' tech.",
   "tribes.polaris": "Polarisi",
   "tribes.polaris.info": "The {0} have lain trapped in the far reaches of the freezing tundra for eons, but were blessed by the magic of the strange and otherworldly Gaami with powers to expand their unnatural icy terrain farther than the weather permits. \n\nWith the might of sleds and Mamoos, the mystical {0} are determined to entomb the Square in ice and transform the land into a frigid paradise. \n\n{0} starts the game with the '{1}' tech and the ability to freeze surrounding terrain with moonis.",
-  "tribes.cymanti": "Kimanti",
+  "tribes.cymanti": "Kimaniti",
   "tribes.cymanti.info": "The {0} are a breakout group of Polytopians who moved into the unknown and learned to live with the Ciru Bug, which attaches to their faces and merges with their brains. \n\nLed by their Shaman, the {0} train gigantic bugs and use their enemies to fertilize their fungi farms, with the goal to vanquish all who would threaten their marshy home! \n\n{0} starts the game with the '{1}' tech and the power to boost units and unleash powerful, crippling poisons.",
   
 
-  "building.capital.owner": "{0} ir (Ruling City) {1}naq",
-  "building.capital.owner.former": "{0} ir {1}naq (Before-Ruling City), currently occupied by {2}naq forces",
+  "building.capital.owner": "{0}mita (Capital City) {1}naq",
+  "building.capital.owner.former": "{0}mitakali altu (Capital City) {1}lut, kurati {2}naq",
   "building.city.owner": "{0} ir (City) {1}naq ",
   "building.village.owner": "This is a village that doesn't belong to any tribe",
   "building.ability.attract": "attracts a wild animal to a nearby forest tile every 3 turns",
