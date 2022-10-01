@@ -1,5 +1,5 @@
 {
-  "language": "Tirumisaa Polarisinaq/ᑎᕈᒥᓵ ᑉᐞᓚᕆᓯᓇᕻ",
+  "language": "ᑎᕈᒥᓵ ᑉᐞᓚᕆᓯᓇᕻ",
   "startmenu.new_game": "NEW GAME",
   "startmenu.multiplayer": "MULTIPLAYER",
   "startmenu.resume_game": "RESUME GAME",
@@ -96,16 +96,17 @@
   "gamesettings.passplay.info": "Play with your friends offline on this device by passing it around.",
   "gamesettings.size.tiles": "{0} tile map.",
   "gamesettings.continue": "CONTINUE",
+  "gamesettings.disableTribes": "Enable or Disable Tribes",
 
   "gamemode.perfection.caps": "PERFECTION",
   "gamemode.perfection": "Perfection",
-  "gamemode.perfection.description.button": "Show your skills on the global leaderboards and attempt score the highest possible in this classic 30 turn gamemode.",
+  "gamemode.perfection.description.button": "Show your skills on the global leaderboards and attempt to score the highest in the classic 30 turn gamemode.",
   "gamemode.perfection.description": "Get the highest possible score before the time runs out.",
   "gamemode.perfection.win": "We have reached the end of time. The memory of your tribe will echo in eternity!",
   "gamemode.perfection.loss": "We have reached the end of time.",
   "gamemode.domination.caps": "DOMINATION",
   "gamemode.domination": "Domination",
-  "gamemode.domination.description.button": "Battle it out against all the other tribes in the classic free-for-all for control of the square. there is no time limit.",
+  "gamemode.domination.description.button": "Battle it out on the square against all the other tribes in this free-for-all race to eliminate the others.",
   "gamemode.domination.description": "Wipe all the other tribes from the face of the square. There can be only one!",
   "gamemode.domination.win": "You have defeated all the other tribes and unified the tribes of the square!",
   "gamemode.domination.loss": "Your last city was lost and your tribe conquered. you have been defeated.",
@@ -125,11 +126,15 @@
   "gamemode.might": "Might",
   "gamemode.might.description": "Capture all capitals to win",
   "gamemode.might.win": "All capitals were captured",
+  "gamemode.tutorial": "Boot Camp",
   "gamemode.death": "Your last city was lost and your tribe conquered. you have been defeated.",
 
+  
+  
   "world.intro.title": "Mighty Leader!",
-  "world.intro.text": "You have been chosen to rule the {0}naq tribe. Explore the world and expand your Nasuriqaq, but watch out for other tribes as they try to overrun your's.",
+  "world.intro.text": "You have been chosen to rule the {0} tribe. Explore the world and expand your empire, but watch out for other tribes as they try to overrun your's.",
   "world.intro.objective": "Objective: {0}",
+  
   "world.turn.end": "End Turn",
   "world.turn.end.question": "End your turn?",
   "world.turn.end.confirm": "Confirm",
@@ -145,6 +150,7 @@
   "world.turn.remaining": "{0} turns left",
   "world.turn.last": "Last turn!",
   "world.turn.replaying": "Replaying...",
+  
   "world.unit.info.from": "From the city of {0}.",
   "world.unit.veteran": "This unit has the status of a Veteran. this unit has increased health.",
   "world.unit.veteran.progress": "{0}/{1} to become a veteran.",
@@ -159,18 +165,20 @@
   "world.unit.evolve": "Your unit has grown to a {0}!",
   "world.unit.evolve.title": "Unit Growth",
   "world.unit.dissolved": "Your unit has dissolved",
+  
   "world.building.info": "The city of {0}",
   "world.building.village": "Village",
   "world.building.capture.ready": "Will be ready to capture next turn",
   "world.building.capture.ready.title": "Entering {0}!",
   "world.building.capture.warning": "your city will be captured next turn if you don't stop them.",
   "world.building.capture.warning.title": "{0} is under siege!",
+  
   "world.attract.sanctuary": "Your sanctuary has attracted a wild animal!",
   "world.loading": "LOADING {0}%",
   "world.suggestion.title": "Here's a Tip!",
   "world.suggestion.message": "You should {0}",
   "world.suggestion.disable": "(These suggestions can be switched off in the menu)",
-  "world.ranks": "Iutiiqitipi,2nd,3rd,4th,5th,6th,7th,8th,9th,10th,11th,12th,13th,14th,15th,16th",
+  "world.ranks": "1st,2nd,3rd,4th,5th,6th,7th,8th,9th,10th,11th,12th,13th,14th,15th,16th",
   "world.road.connected.title": "New trade route!",
   "world.road.connected.message": "Your capital is now connected to {0}!",
   "world.tech.new.title": "New Tech!",
@@ -181,45 +189,80 @@
   "world.meet.tribe": "You meet {0}",
   "world.task.new": "You got a new Task!",
 
-  "tribes.nature": "Nature",
-  "tribes.xinxi": "Sinikai ᓯᓂᑲᐃ",
-  "tribes.xinxi.info": "The {0} start off in the dense mountains, surrounded by beautiful Xini blossom trees.\n\n{0} starts the game with the '{1}' tech.",
-  "tribes.imperius": "Atirumanu",
-  "tribes.imperius.info": "The land of Imperia with it's many huge mountains, green valleys, and mild climate, have been know to be home of the {0}, a tribe ready to expand their empire beyond the horizon.\n\n{0} starts the game with the '{1}' tech.",
-  "tribes.bardur": "",
-  "tribes.bardur.info": "Surviving the harsh eternal winter of Barduria is not at all quite the easy task, but here the {0} seems to thrive here, harvesting timber from the local forests to build up their wooden cities.\n\n{0} starts the game with the '{1}' tech.",
-  "tribes.oumaji": "Irumaji",
-  "tribes.oumaji.info": "The seemingly endless, sun blessed desert is the home of the {0} tribe.\n\n{0} starts the game with the '{1}' tech and a quick Rider.",
-  "tribes.kickoo": "Kiku",
-  "tribes.kickoo.info": "Tall palms dot the white and sandy beaches of this land, blessed by it's vast abundance of fruit and fish. Welcome to the island archipelago of Kickonesia, home of the tropical {0} tribe. \n\n{0} starts the game with the '{1}' tech.",
-  "tribes.hoodrick": "Ingvirik",
-  "tribes.hoodrick.info": "The yellow autumn leaves of the {0} woods are perfect hideouts for its peculiar berry munching inhabitants, know for their fine pastry baking and expert archery skills.\n\n{0} starts the game with the '{1}' tech and a skilled Archer.",
-  "tribes.luxidoor": "Rilujavari",
-  "tribes.luxidoor.info": "The {0} love expensive things, jewels, rare spices and exclusive ornaments. That is also why they are the most expensive tribe in Polytopia!\n\nLuxidoorian citizens lead very comfortable lives, draped in the finest purple silk. But will they survive outside of their beloved capital?  \n\n{0} starts the game without a starting tech, but rather a large capital.",
-  "tribes.vengir": "Venghiri",
-  "tribes.vengir.info": "Frowned upon by the other tribes and being pushed into the unpleasant wastelands, the {0} has over time, adapted to the harsh realities of their lives. Will they tolerate this injustice or rise to fight back seeking revenge? \n\n{0} starts the game with the '{1}' tech and a powerful Swordsman.",
-  "tribes.zebasi": "Asivati",
-  "tribes.zebasi.info": "The {0} have thrived living on the warm savannah, cultivating the rich soil to provide food for their mighty population. \n\n{0} starts the game with the '{1}' tech.",
-  "tribes.zebasi.news": "All profits from the Zebasi tribe is invested in solar energy projects.",
-  "tribes.aimo": "Ailati",
-  "tribes.aimo.info": "The tranquil and wise {0} tribe inhabits the harshest, windiest, and highest mountain range of the square, where they have found inner peace by meditating in the eternal evening light. \n\n{0} starts the game with the '{1}' tech.",
-  "tribes.aquarion": "Nariqanu",
-  "tribes.aquarion.info": "From the depths beneath oceans, the long lost {0} civilization arises from the crashing waves below, towering into the clear skies above!\n\nTheir extreme isolation has given them special aquatic abilities that are unknown to the other more human tribes and has allowed them to befriend the local marine life.\n\n{0} starts the game with the '{1}' tech and have access to the unique amphibious units that no other tribe can train.",
-  "tribes.quetzali": "Quetzali",
-  "tribes.quetzali.info": "The {0} tribe worship the birb gods of the red soil and live in harmony with the natural symmetry of their cubistic jungles. They are commonly seen riding huge flightless birds. \n\n{0} starts the game with the '{1}' tech and a durable Defender.",
-  "tribes.elyrion": "Ilirinu",
-  "tribes.elyrion.info": "The mysterious {0} defend their woodland homes with colorful magic and the ferocity of fire-breathing dragons! \n\nThey regard Nature as a holy spirit and cannot hunt animals or chop down trees, instead they have the magical ability that turns regular animals into powerful monsters. \n\n{0} starts the game with the 'Forest Magic' tech and the power to enchant the local wildlife",
-  "tribes.yadakk": "Kajavaki",
-  "tribes.yadakk.info": "The {0} started out as a nomadic tribe in the beautiful Khalee plains. Now that they managed to settle, they have now become are the traders of the square, connecting their empire with impressive trade routes. \n\n{0} starts the game with the '{1}' tech.",
-  "tribes.polaris": "Polarisi",
-  "tribes.polaris.info": "The {0} have lain trapped in the far reaches of the freezing tundra for eons, but were blessed by the magic of the strange and otherworldly Gaami with powers to expand their unnatural icy terrain farther than the weather permits. \n\nWith the might of sleds and Mamoos, the mystical {0} are determined to entomb the Square in ice and transform the land into a frigid paradise. \n\n{0} starts the game with the '{1}' tech and the ability to freeze surrounding terrain with moonis.",
-  "tribes.cymanti": "Kimaniti",
-  "tribes.cymanti.info": "The {0} are a breakout group of Polytopians who moved into the unknown and learned to live with the Ciru Bug, which attaches to their faces and merges with their brains. \n\nLed by their Shaman, the {0} train gigantic bugs and use their enemies to fertilize their fungi farms, with the goal to vanquish all who would threaten their marshy home! \n\n{0} starts the game with the '{1}' tech and the power to boost units and unleash powerful, crippling poisons.",
   
+  
+  "tribes.nature": "Nature",
+  
+  "tribes.xinxi": "ᓯᓂᑲᐃ",
+  "tribes.xinxi.info": "The {0} start off in the dense mountains, surrounded by beautiful Xini blossom trees.",
+  "tribes.xinxi.info2": "{0} starts the game with the '{1}' tech.",
+  
+  "tribes.imperius": "ᐊᑎᕈᒪᓄ",
+  "tribes.imperius.info": "The land of Imperia with it's many huge mountains, green valleys, and mild climate, have been know to be home of the {0}, a tribe ready to expand their empire beyond the horizon.",
+  "tribes.imperius.info2": "{0} starts the game with the '{1}' tech.",
+  
+  "tribes.bardur": "",
+  "tribes.bardur.info": "Surviving the harsh eternal winter of Barduria is not at all quite the easy task, but here the {0} seems to thrive here, harvesting timber from the local forests to build up their wooden cities.",
+  "tribes.bardur.info2": "{0} starts the game with the '{1}' tech.",
+  
+  "tribes.oumaji": "ᐃᕈᒪᔨ",
+  "tribes.oumaji.info": "The seemingly endless, sun blessed desert is the home of the {0} tribe.",
+  "tribes.oumaji.info2": "{0} starts the game with a rider and the '{1}' tech.",
+  
+  "tribes.kickoo": "ᑭᑯ",
+  "tribes.kickoo.info": "Tall palms dot the white and sandy beaches of this land, blessed by it's vast abundance of fruit and fish. Welcome to the island archipelago of Kickonesia, home of the tropical {0} tribe!",
+  "tribes.kickoo.info2": "{0} starts the game with the '{1}' tech.",
+  
+  "tribes.hoodrick": "ᐃᖕᕕᕆᒃ",
+  "tribes.hoodrick.info": "The yellow autumn leaves of the {0} woods are perfect hideouts for its peculiar berry munching inhabitants. the {0} are known for their fine pastries and expert archery skills.",
+  "tribes.hoodrick.info2": "{0} starts the game with an archer the '{1}' tech.",
+  
+  "tribes.luxidoor": "ᕆᓗᔭᕙᕆ",
+  "tribes.luxidoor.info": "The {0} love expensive things, jewels, rare spices and exclusive ornaments. That is also why they are the most expensive tribe in Polytopia!\n\nLuxidoorian citizens lead very comfortable lives, draped in the finest purple silk. But will they survive outside of their beloved capital?",
+  "tribes.luxidoor.info2": "{0} starts the game with a large capital.",
+  
+  "tribes.vengir": "ᕓᖕᐦᐃᕆ",
+  "tribes.vengir.info": "Frowned upon by the other tribes and being pushed into the unpleasant wastelands. the {0} has over time, adapted to the harsh realities of their lives. Will they tolerate this injustice or rise to fight back seeking revenge?",
+  "tribes.vengir.info2": "{0} starts the game with a swordsman and the '{1}' tech.",
+  
+  "tribes.zebasi": "ᐊᓯᕙᑎ",
+  "tribes.zebasi.info": "The {0} have thrived living on the warm savannah, cultivating the rich soil to provide food for their mighty population.",
+  "tribes.zebasi.info2": "{0} starts the game with the '{1}' tech.",
+  "tribes.zebasi.news": "All profits from the Zebasi tribe is invested in solar energy projects.",
+  
+  "tribes.aimo": "ᐊᐃᓚᑎ",
+  "tribes.aimo.info": "The tranquil and wise {0} tribe inhabits the harshest, windiest, and highest mountain range of the square, where they have found inner peace by meditating in the eternal evening light.",
+  "tribes.aimo.info2": "{0} starts the game with the '{1}' tech.",
+  
+  "tribes.quetzali": "ᕷᐁᑦᓴᓕ",
+  "tribes.quetzali.info": "The {0} tribe worship the birb gods of the red soil and live in harmony with the natural symmetry of their cubistic jungles. They are commonly seen riding huge flightless birds.",
+  "tribes.quetzali.info2": "{0} starts the game with the '{1}' tech.",
+  
+  "tribes.yadakk": "ᑲᔭᕙᑭ",
+  "tribes.yadakk.info": "The {0} started out as a nomadic tribe in the beautiful Khalee plains. Now that they managed to settle, they have now become are the traders of the square, connecting their empire with impressive trade routes.",
+  "tribes.yadakk.info2": "{0} starts the game with the '{1}' tech.",
+  
+  "tribes.aquarion": "ᓇᕆᕹᓄ",
+  "tribes.aquarion.info": "From the depths beneath oceans, the long lost {0} civilization arises from the crashing waves below, towering into the clear skies above!\n\nTheir extreme isolation has given them special aquatic abilities that are unknown to the other more human tribes and has allowed them to befriend the local marine life.",
+  "tribes.aquarion.info2": "{0} starts the game with the '{1}' tech and have access to the unique amphibious units that no other tribe can train.",
+  
+  "tribes.elyrion": "ᐃᓕᕆᓄ",
+  "tribes.elyrion.info": "The mysterious {0} defend their woodland homes with colorful magic and the ferocity of fire-breathing dragons! \n\nThey regard Nature as a holy spirit and cannot hunt animals or chop down trees.",
+  "tribes.elyrion.info2": "{0} starts the game with the '{1}' tech and the ability to enchant the local wildlife into powerful monsters.",
+  
+  "tribes.polaris": "ᑉᐞᓚᕆᓯ",
+  "tribes.polaris.info": "The {0} have lain trapped in the far reaches of the freezing tundra for eons, but were blessed by the magic of the strange and otherworldly Gaami with powers to expand their unnatural icy terrain farther than the weather permits. \n\nWith the might of sleds and Mamoos, the mystical {0} are determined to entomb the Square in ice and transform the land into a frigid paradise.",
+  "tribes.polaris.info2": "{0} starts the game with the '{1}' tech, a mooni, and supernatural terraforming abilities.",
+ 
+  "tribes.cymanti": "ᑭᒪᓂᑎ",
+  "tribes.cymanti.info": "The {0} are a breakout group of Polytopians who moved into the unknown and learned to live with the Ciru Bug, which attaches to their faces and merges with their brains. \n\nLed by their Shaman, the {0} train gigantic bugs and use their enemies to fertilize their fungi farms, with the goal to vanquish all who would threaten their marshy home!",
+  "tribes.cymanti.info2": "{0} starts the game with the '{1}' tech and the power to boost units and unleash crippling poisons.",
 
-  "building.capital.owner": "{0}mita (Capital City) {1}naq",
-  "building.capital.owner.former": "{0}mitakali altu (Capital City) {1}lut, kurati {2}naq",
-  "building.city.owner": "{0} ir (City) {1}naq ",
+  
+  
+  "building.capital.owner": "{0} is the {1} capital",
+  "building.capital.owner.former": "{0} is the former capital of the {1} empire, currently occupied by {2} forces",
+  "building.city.owner": "{0} is a city in the {1} empire",
   "building.village.owner": "This is a village that doesn't belong to any tribe",
   "building.ability.attract": "attracts a wild animal to a nearby forest tile every 3 turns",
   "building.produce": "produces {0} each turn",
@@ -236,6 +279,7 @@
   "building.transform2": "transforms a {0} into a {1} with {2} ",
   "building.resource": "adds a {0} at the selected tile",
   "building.value": "is worth {0} points of score",
+  
   "building.ability.embark": "Units that move here will turn into boats that can move on water.",
   "building.ability.route": "It creates trade routes through {0} to any other {1} within a 5 tiles radius.",
   "building.ability.route.and": " and ",
@@ -245,9 +289,11 @@
   "building.ability.limited": "You can only build one {0} per city.",
   "building.ability.unique": "{0} can only be built once.",
   "building.ability.poison": "This structure may inflict poisoning upon contact.",
+  
   "building.restriction.near": "Must be built next to a {0}.",
   "building.restriction.on": "Must be on a tile with {0}.",
-  "building.names.city": "(City)",
+  
+  "building.names.city": "City",
   "building.names.ruin": "Ruin",
   "building.names.monument1": "Altar of Peace",
   "building.names.monument2": "Tower of wisdom",
@@ -260,20 +306,20 @@
   "building.names.burnforest": "Burn Forest",
   "building.names.road": "Road",
   "building.names.customshouse": "Market",
-  "building.names.harvestfruit": "(Gather) Lura",
+  "building.names.harvestfruit": "Gather Fruit",
   "building.names.farm": "Farm",
   "building.names.windmill": "Windmill",
   "building.names.fishing": "Fishing",
   "building.names.whalehunting": "Whale Hunting",
-  "building.names.watertemple": "Ocean Temple",
+  "building.names.watertemple": "Ocean Monument",
   "building.names.port": "Port",
   "building.names.hunting": "Hunting",
   "building.names.clearforest": "Clear forest",
   "building.names.lumberhut": "Lumber Hut",
   "building.names.sawmill": "Lumber Mill",
   "building.names.growforest": "Grow Forest",
-  "building.names.foresttemple": "Forest Temple",
-  "building.names.mountaintemple": "Mountain Temple",
+  "building.names.foresttemple": "Forest Altar",
+  "building.names.mountaintemple": "Monistary",
   "building.names.icetemple": "Ice Temple",
   "building.names.outpost": "Outpost",
   "building.names.mine": "Mine",
@@ -288,53 +334,61 @@
   "building.names.mycelium": "Mycelium",
   "building.names.clathrus": "Clathrus",
 
+  
+  
   "unit": "unit",
+  
   "unit.info.attack": "Attack",
   "unit.info.defence": "Defence",
   "unit.info.movement": "Movement",
   "unit.info.health": "Health",
   "unit.info.range": "Range",
   "unit.info.skills": "Skills",
-  "unit.names.giant": "(Giant)",
-  "unit.names.crab": "(Large)(Crab)",
+  
+  "unit.names.giant": "Giant",
+  "unit.names.crab": "Crab",
   "unit.names.gaami": "Gaami",
   "unit.names.bunny": "Nature Bunny",
   "unit.names.scout": "Scout",
-  "unit.names.boat": "(Boat or Kayak)",
-  "unit.names.warrior": "(Fight)(Is)",
-  "unit.names.rider": "(Ride)(Is)",
+  "unit.names.boat": "Boat",
+  "unit.names.warrior": "Warrior",
+  "unit.names.rider": "Rider",
   "unit.names.knight": "Knight",
-  "unit.names.defender": "(Guard)(Is)",
-  "unit.names.ship": "(Ship)",
-  "unit.names.battleship": "(Battleship or Ice Breaker)",
-  "unit.names.catapult": "(Catapult or Launcher or Mortar)",
-  "unit.names.archer": "(Archer)(Is)",
-  "unit.names.mindbender": "(Preist)",
-  "unit.names.swordsman": "Ilisu(Instrumental)(Fighter)(Is)",
-  "unit.names.amphibian": "(Water)(Ride)(Is)",
-  "unit.names.tridention": "(Ocean)(Spear)(Instrumental)(Fighter)(Is)",
-  "unit.names.dragonegg": "(Dragon)(Egg) or (Enchanted) (Sky)(Beast)(Egg)",
-  "unit.names.babydragon": "(Mini or Small or Baby)(Dragon) or (Enchanted) (Mini or Small or Baby)(Sky)(Beast)",
-  "unit.names.firedragon": "(Fire?) (Dragon) or (Enchanted) (Sky)(Beast)",
-  "unit.names.polytaur": "(Enchanted) (Land)(Beast)",
-  "unit.names.navalon": "(Enchanted) (Sea)(Beast)",
+  "unit.names.defender": "Defenders",
+  "unit.names.ship": "Ship",
+  "unit.names.battleship": "Battleship",
+  "unit.names.catapult": "Catapult",
+  "unit.names.archer": "Archer",
+  "unit.names.mindbender": "Mind Bender",
+  "unit.names.swordsman": "Swordsman",
+  "unit.names.amphibian": "Amphibian",
+  "unit.names.tridention": "Tridention",
+  "unit.names.dragonegg": "Dragon Egg",
+  "unit.names.babydragon": "Baby Dragon",
+  "unit.names.firedragon": "Fire Dragon",
+  "unit.names.polytaur": "Polytaur",
+  "unit.names.navalon": "Navalon",
   "unit.names.mooni": "Mooni",
-  "unit.names.battlesled": "(Battle Sled)",
-  "unit.names.icefortress": "(Ice Fortress)",
-  "unit.names.shaman": "(Dark or Cursed)(Preist)",
-  "unit.names.hexapod": "",
-  "unit.names.kiton": "Kitunu",
-  "unit.names.doomux": "",
-  "unit.names.raychi": "",
-  "unit.names.phychi": "Tisaqii",
-  "unit.names.exida": "Esita",
-  "unit.names.centipede": "(Insect)(Beast)",
+  "unit.names.battlesled": "Battle Sled",
+  "unit.names.icefortress": "Ice Fortress",
+  "unit.names.shaman": "Shaman",
+  "unit.names.hexapod": "Hexapod",
+  "unit.names.kiton": "Kiton",
+  "unit.names.doomux": "Doomux",
+  "unit.names.raychi": "Raychi",
+  "unit.names.phychi": "Phychi",
+  "unit.names.exida": "Exida",
+  "unit.names.centipede": "Centipede",
+  "unit.names.segment": "Centipede",
+  "unit.names.cloak": "Agent",
+  "unit.names.dagger": "Rebel",
+  
   "unit.ability": "ability",
+  
   "unit.abilities.dash": "Dash",
   "unit.abilities.escape": "Escape",
   "unit.abilities.scout": "Broadview",
-  "unit.abilities.sneak": "Creep",
-  "unit.abilities.hide": "Hide",
+  "unit.abilities.sneak": "Sneak",
   "unit.abilities.build": "Build",
   "unit.abilities.persist": "Persist",
   "unit.abilities.convert": "Convert",
@@ -351,26 +405,37 @@
   "unit.abilities.autofreeze": "Auto Freeze",
   "unit.abilities.skate": "Skate",
   "unit.abilities.fortify": "Fortify",
-  "unit.abilities.creep": "Sneak",
+  "unit.abilities.creep": "Creep",
   "unit.abilities.explode": "Explode",
   "unit.abilities.poison": "Poison",
   "unit.abilities.independent": "Independent",
   "unit.abilities.boost": "Boost",
   "unit.abilities.eat": "Eat",
   "unit.abilities.surprise": "Suprise",
-
+  "unit.abilities.hide": "Hide",
+  "unit.abilities.infiltrate": "Infiltrate",
+  "unit.abilities.detect": "Detect",
+  
+  
   
   "player.abilities.destroy": "destroy",
   "player.abilities.disband": "disband",
   "player.abilities.literacy": "literacy",
   "player.abilities.glide": "glide",
+  "player.abilities.peacetreaty": "Peace Treaty",
+  "player.abilities.embassy": "Embassy",
+  "player.abilities.capitalvision": "Capital Vision",
   
-  "resource.names.fruit": "lura",
+  
+  
+  "resource.names.fruit": "fruit",
   "resource.names.crop": "crop",
-  "resource.names.fish": "iqisaqa",
+  "resource.names.fish": "fish",
   "resource.names.whale": "whale",
   "resource.names.game": "wild animal",
   "resource.names.metal": "metal",
+  
+  
   
   "terrain.unknown": "Unknown lands",
   "terrain.water": "Water",
@@ -378,31 +443,39 @@
   "terrain.field": "Field",
   "terrain.forest": "Forest",
   "terrain.mountain": "Mountain",
-  "terrain.ice": "Initiituli",
+  "terrain.ice": "Ice",
   "terrain.algae": "Algae",
+  
+  
+  
   "actionbox.building.level": "level {0}/{1}",
   "actionbox.tile.roads": "roads",
-  "actionbox.city": "(City) (Of) {0}",
+  "actionbox.city": "The city of {0}",
   "actionbox.city.level": "lvl {0}",
-  "actionbox.village": "(Village)",
+  "actionbox.village": "Village",
+  
   "actionbox.unit.Frozen": "Frozen",
   "actionbox.unit.Poisoned": "Poisoned",
   "actionbox.unit.Boosted": "Boosted",
+  "actionbox.unit.Invisible": "Invisible",
   "actionbox.unit.kills": "{0}/{1} kills",
   "actionbox.unit.veteran": "Veteran",
-  "actionbox.unit.new": "Train a new {1} {0}naq",
+  "actionbox.unit.new": "Train a new {0} {1}",
   "actionbox.unit.ability": "Unit Ability",
   "actionbox.unit.train": "Train",
   "actionbox.unit.upgrade": "Upgrade",
   "actionbox.unit.toomany": "(too many)",
   "actionbox.unit.toomany.info": "This city can't support any more units. Upgrade the city to get more space for units.",
+  
   "actionbox.building.doit": "CONFIRM",
   "actionbox.building.requiredtech": "You need to research {0} to do this, tap the 'Tech Tree' button.",
   "actionbox.building.techtree": "TECH TREE",
   "actionbox.insufficientfunds": "You don't have enough stars to buy this. Tap 'next turn' to get more stars.",
   "actionbox.confirm": "Confirm {0}",
   "actionbox.confirm.info": "Are you sure you want to do this?",
-  "actionbox.confirm.button": "Sa",
+  "actionbox.confirm.button": "Yes",
+  
+  
   
   "tooltip.tile.road": "Build a road to connect this city to your capital.",
   "tooltip.tile.choose_unit": "Choose a unit to produce.",
@@ -425,6 +498,7 @@
   "tooltip.tile.outside": "This resource is outside of your empire",
   "tooltip.tile.research": "You need to research {0} to be able to move here",
   "tooltip.tile.explore": "Explore this area to see what it holds!",
+  
   "tooltip.unit.city.capture": "Tap 'Capture' to add this city to your empire",
   "tooltip.unit.city.capture.next": "This city will be ready to capture next turn",
   "tooltip.unit.city.capture.flying": "Flying units cannot capture cities",
@@ -433,16 +507,19 @@
   "tooltip.unit.actions.attack": "Click a red mark to attack!",
   "tooltip.unit.enemy": "This is the enemy!",
   "tooltip.unit.enemy.territory": "This enemy is in your territory!",
+  "tooltip.unit.ally": "",
+  "tooltip.unit.ally.territory": "",
   "tooltip.unit.enemy.city": "This enemy is capturing your city!",
   "tooltip.unit.grow.now": "Will grow to {0} at the end of this turn!",
   "tooltip.unit.grow.later": "Will grow to {0} in {1} turns.",
   "tooltip.unit.decay.now": "This entity will decay at the end of this turn.",
   "tooltip.unit.decay.later": "This entity will decay in {0} turns.",
+  
   "tooltip.ability.disband": "Release a unit in exchange for 50% of it's cost in stars.",
   "tooltip.ability.destroy": "Remove any building within your borders, great for restructuring your empire.",
   "tooltip.ability.literacy": "Reduce the price of all technologies by 33%.",
   "tooltip.ability.glide": "All units without the skate ability are granted a +1 movement bonus on ice.",
-  "tooltip.ability.dash": "This unit is allowed to attack after moving in the same turn.",
+  "tooltip.ability.dash": "This unit is allowed to attack after moving the same turn.",
   "tooltip.ability.convert": "This unit can convert enemy units to your tribe.",
   "tooltip.ability.escape": "This unit can retreat after attacking.",
   "tooltip.ability.persist": "This unit is allowed to attack again immediately after killing an enemy unit.",
@@ -450,7 +527,7 @@
   "tooltip.ability.carry": "This unit holds another unit inside of it.",
   "tooltip.ability.heal": "This unit can heal any surrounding allied units.",
   "tooltip.ability.navigate": "This unit can move in any aquatic terrain without needing the research to move there.",
-  "tooltip.ability.fly": "This unit can fly over any terrain without movement penalties or bonuses.",
+  "tooltip.ability.fly": "This unit can fly over any terrain with no movement penalties or bonuse",
   "tooltip.ability.splash": "This unit's attack deals splash damage. Deals 50% of base damage or poisoning.",
   "tooltip.ability.grow": "This unit will eventually grow and become something else...",
   "tooltip.ability.sneak": "This unit can bypass enemy units without stopping.",
@@ -466,15 +543,20 @@
   "tooltip.ability.independent": "This unit doesnt use up a population slot or belongs to any city.",
   "tooltip.ability.boost": "This unit can increases the movement and attack of surrounding allied units.",
   "tooltip.ability.eat": "This unit grows in length whenever it kills its victim.",
-  "tooltip.ability.surprise": "The unit that is being attacked by this unit, has it's retalitory attack disabled.",
+  "tooltip.ability.surprise": "The unit attacked by this unit has it's retalitory attack disabled.",
+  "tooltip.ability.hide": "This unit can become invisible.",
+  "tooltip.ability.infiltrate": "This unit can summon riots adjacent to enemy cities. riots can prevent the collection of city income.",
+  "tooltip.ability.detect": "This unit can detect the presence of nearby invisible units.",
 
-
-
-  "buttons.ok": "SA",
+  
+  
+  "buttons.ok": "OK",
   "buttons.exit": "EXIT",
   "buttons.save": "SAVE",
   "buttons.back": "BACK",
 
+  
+  
   "gameinfo.id": "id: {0}",
   "gameinfo.lastmove": "Last move: {0} ago",
   "gameinfo.updated": "updated: {0} ago",
@@ -487,10 +569,14 @@
   "gameinfo.picktribe": "pick tribe",
   "gameinfo.play": "play",
 
+  
+  
   "gamesaverbinary.unable.to.save": "I was unable to save the game, make sure you have sufficient storage on your device",
   "gamesaverbinary.unable.to.save.title": "Could not save :(",
   "gamesaverbinary.error.loading.moves": "Error loading moves",
 
+  
+  
   "polyplayer.task": "tasks",
   "polyplayer.task.explorer.title": "Explorer",
   "polyplayer.task.explorer.description": "Explore every single tile in this square world",
@@ -509,8 +595,12 @@
   "polyplayer.task.network.title": "Network",
   "polyplayer.task.network.description": "Connect 5 cities to your capital",
 
+  
+  
   "task.info": "{0} to get {1}",
 
+  
+  
   "price.stars": "star",
   "price.stars.plural": "stars",
   "price.population": "population",
@@ -518,17 +608,19 @@
   "price.points": "point",
   "price.points.plural": "points",
 
+  
+  
   "wcontroller.online.yourturn.title": "It's your turn!",
   "wcontroller.online.yourturn.description": "Tap ok to continue the game when you are ready.",
   "wcontroller.convertvillage.description": "The villagers agree to join your emerging empire!",
   "wcontroller.convertvillage.title": "Village converted!",
   "wcontroller.capital.regained.description": "You have regained control of your capital, all trade and communication networks have been reestablished",
   "wcontroller.capital.regained.title": "Great news!",
-  "wcontroller.capital.lost.description": "Your capital has been captured by the {0}naq hordes! All your trade connections are cancelled until you regain control of your capital",
+  "wcontroller.capital.lost.description": "Your capital has been captured by the {0} hordes! All your trade connections are cancelled until you regain control of your capital",
   "wcontroller.capital.lost.title": "Bad news!",
-  "wcontroller.capital.captured.description": "You have captured the {0}naq capital! All their trade connections are cancelled until they regain control of their capital",
+  "wcontroller.capital.captured.description": "You have captured the {0} capital! All their trade connections are cancelled until they regain control of their capital",
   "wcontroller.capital.captured.title": "Great news!",
-  "wcontroller.capital.captured2.description": "{0} is now part of the Nasuriqaq {1}naq",
+  "wcontroller.capital.captured2.description": "{0} is now part of the {1} empire",
   "wcontroller.capital.captured2.title": "City captured!",
   "wcontroller.kill.upgrade.description": "Unit is ready to upgrade!",
   "wcontroller.kill.upgrade.title": "Promote!",
@@ -566,9 +658,9 @@
   "wcontroller.meet.tribe.tech.friendly": "As a gesture of good will, they share with you the secret of {0}!",
   "wcontroller.meet.tribe.resource.hostile": "You manage to steal some valuable gold pieces!",
   "wcontroller.meet.tribe.resource.friendly": "They present you with a gift of valuable resources!",
-  "wcontroller.tribe.destroy": "You have destroyed the {0}naq!",
+  "wcontroller.tribe.destroy": "You have destroyed the {0}!",
   "wcontroller.tribe.destroy.title": "Blood!",
-  "wcontroller.tribe.destroy2": "{0}naq has been destroyed by the {1}naq!",
+  "wcontroller.tribe.destroy2": "{0} has been destroyed by the {1}!",
   "wcontroller.tribe.destroy.all": "You have destroyed all opposing tribes and unified the entire square under your command!",
   "wcontroller.tribe.destroy.all.title": "Domination!",
   "wcontroller.city.disconnect": "{0} was disconnected from {1}",
@@ -591,6 +683,9 @@
   "wcontroller.removingplayer": "Removing Player",
   "wcontroller.not.your.turn": "Sorry, it's not your turn yet!",
 
+  
+  
+  
   "technology.intro": "This tech will enable the following:",
   "technology.build": "{0} makes it possible to build {1}",
   "technology.movement": "Movement",
@@ -600,6 +695,7 @@
   "technology.task": "{0} activates the {1} task",
   "technology.ability": "ability",
   "technology.ability.info": "{1} gives you the ability to {1}",
+  
   "technology.names.basic": "basic",
   "technology.names.riding": "Riding",
   "technology.names.freespirit": "Free Spirit",
@@ -607,13 +703,14 @@
   "technology.names.roads": "Roads",
   "technology.names.trade": "Trade",
   "technology.names.organization": "Organization",
-  "technology.names.shields": "Shields",
+  "technology.names.shields": "Stratagy",
+  "technology.names.diplomacy": "Diplomacy",
   "technology.names.farming": "Farming",
   "technology.names.construction": "Construction",
   "technology.names.fishing": "Fishing",
   "technology.names.whaling": "Whaling",
   "technology.names.aquatism": "Aquatism",
-  "technology.names.sailing": "Ice Sailing",
+  "technology.names.sailing": "Sailing",
   "technology.names.navigation": "Navigation",
   "technology.names.hunting": "Hunting",
   "technology.names.forestry": "Forestry",
@@ -624,7 +721,7 @@
   "technology.names.meditation": "Meditation",
   "technology.names.philosophy": "Philosophy",
   "technology.names.mining": "Mining",
-  "technology.names.smithery": "Linguistics",
+  "technology.names.smithery": "Smithery",
   "technology.names.riding2": "Free Swimming",
   "technology.names.freediving": "Free Diving",
   "technology.names.spearing": "Spearing",
@@ -638,6 +735,8 @@
   "technology.names.recycling": "Decomposition",
   "technology.names.shock": "Shock Tactics",
   
+  
+  
   "techview.info": "Tech costs increase for each city in your empire. Research a tech to unlock the Abilities, Units, and Skills it offers.",
   "techview.info.literacy": "Literacy reduce the price of all technologies by 33%.",
   "techview.locked": "(locked)",
@@ -647,6 +746,8 @@
   "techview.expensive.info": "You don't have enough stars to buy this. Tap 'next turn' to get more stars.",
   "techview.research": "RESEARCH",
 
+  
+  
   "action.info.attack": "make an attack with this unit. Select the unit and tap any of the RED targets if you want to attack",
   "action.info.recover": "Recover",
   "action.info.healothers": "Heal Others",
@@ -665,7 +766,7 @@
   "action.info.examine": "Examine",
   "action.info.endturn": "end this turn to get more resources and unit moves. Press the 'Next Turn' button",
   "action.info.stay": "Stay",
-  "action.info.healarea": "healArea",
+  "action.info.healarea": "Heal Area",
   "action.info.freezearea": "Freeze Area",
   "action.info.breakice": "Break Ice",
   "action.info.do": "do {0} here",
@@ -674,24 +775,35 @@
   "action.info.reward.resources": "That will give you an instant reward of {0} resources",
   "action.info.research": "research {0}.",
   "action.info.boost": "Boost",
+  "action.info.peacetreaty": "",
+  "action.info.establishembassy": "",
+  "action.info.breakpeace": "",
 
   "actionbtn.upgrade": "Upgrade to {0}",
   "actionbtn.remove.building": "Building",
   "actionbtn.remove.roads": "Roads",
 
+  
+  
   "stringtools.typelist.and": "and",
 
+  
+  
   "topbar.score": "Score",
   "topbar.turn": "Turn",
   "topbar.stars": "Stars (+{0})",
 
+  
+  
   "bottommenu.gamestats": "Game Stats",
   "bottommenu.menu": "Menu",
   "bottommenu.nextturn": "Next Turn",
   "bottommenu.techtree": "Tech Tree",
 
+  
+  
   "endscreen.done": "DONE",
-  "endscreen.ruledby": "Ruled by {0}naq",
+  "endscreen.ruledby": "Ruled by {0}",
   "endscreen.army&territory": "Army & Territory",
   "endscreen.monuments&temples": "Monuments & temples",
   "endscreen.cities": "Cities",
@@ -722,6 +834,8 @@
   "endscreen.victory": "VICTORY",
   "endscreen.gameover": "GAME OVER",
 
+  
+  
   "highscore.title": "HIGH SCORE",
   "highscore.today": "Today",
   "highscore.thisweek": "This Week",
@@ -731,6 +845,8 @@
   "highscore.loading": "Loading..",
   "highscore.notavailable": "High Score not available.",
 
+  
+  
   "multiplayer.passplay": "Pass & Play",
   "multiplayer.passplay.info": "Challenge your friends in a multiplayer match on the same device. Just pass it on to the next player when your turn is done.",
   "multiplayer.activegames": "Active Games",
@@ -739,6 +855,8 @@
   "multiplayer.clipboard": "Gamedata added to clipboard",
   "multiplayer.clipboard.title": "Voilà!",
 
+  
+  
   "gamestats.gamemode": "Game mode: {0}",
   "gamestats.bonus": "Difficulty bonus: {0}",
   "gamestats.speed": "Speed skills",
@@ -759,7 +877,37 @@
   "gamestatus.destroyed": "destroyed",
   "gamestatus.tasks": "Tasks {0}/{1}",
   "gamestatus.tasks.complete": "Complete!",
+  
+  
+  
+  "diplomacy.state.peace": "",
+  "diplomacy.state.war": "",
+  
+  
+  
+  "opinion.love": "",
+  "opinion.hate": "",
+  
+  
+  
+  "playinfo.title": "",
+  "playinfo.summary.ruledby": "",
+  "playinfo.summary.reasons": "",
+  "playinfo.summary.war": "",
+  "playinfo.summary.neutral": "",
+  "playinfo.summary.peace": "",
+  "playinfo.triberelations.title": "",
+  "playinfo.triberelations.popup.title": "",
+  "playinfo.triberelations.popup.peacepeace.description": "",
+  "playinfo.triberelations.popup.neutral.description": "",
+  "playinfo.triberelations.popup.warwar.description": "",
+  
+  
+  
+  "playinfopopup.you.description": "",
 
+  
+  
   "settings.title": "SETTINGS",
   "settings.volume": "Audio volume {0}",
   "settings.soundeffects": "Sound Effects",
@@ -806,6 +954,8 @@
   "throne.google.info": "(!)You need to sign in with Google Play to save your game data and high scores.",
   "throne.google.in": "SIGN IN",
 
+  
+  
   "consent.approval.title":"Welcome to Polytopia!",
   "consent.approval.info":"To improve Polytopia with usage statistics and to store your high scores and settings we need your approval to access to some personal data.\nYou can read more about what data we collect in our <u><a href='{0}'>privacy policy</a></u>.\n(You can revoke your approval at any time in the 'Throne Room')",
   "consent.approve":"APPROVE",
@@ -816,6 +966,8 @@
   "consent.disabled.info":"To save personal data like high scores and usage statistics we need you approval. For more info, read our <u><a href='{0}'>privacy policy</a></u>.",
   "consent.revoke":"revoke consent",
 
+  
+  
   "onlineview.title": "MULTIPLAYER",
   "onlineview.loadingservice": "Loading Service",
   "onlineview.yourturn": "Your Turn",
@@ -832,10 +984,10 @@
   "onlineview.servicedisabled": "The multiplayer server is temporarily disabled, please try again later. Also make sure that you are using the latest version of the Battle of Polytopia.",
   "onlineview.loaderror": "Could not connect to the multiplayer server. Check your internet connection and try again.",
   "onlineview.uptodate": "All games are up to date",
-  "onlineview.intro.fix": "Allo {0}! \n\nTo play online multiplayer there are a few things you need to fix:",
+  "onlineview.intro.fix": "Hi {0}! \n\nTo play online multiplayer there are a few things you need to fix:",
   "onlineview.intro.update": "Online multiplayer is not available, please update Polytopia to the latest version",
   "onlineview.gameinvitations": "Game Invitations",
-  "onlineview.nogames.intro": "Allo {0}!",
+  "onlineview.nogames.intro": "Hi {0}!",
   "onlineview.nogames.start": "Let's get some online games going with your friends. Tap 'New game' to start one.",
   "onlineview.nogames.first": "The first thing you need is to connect with some other humans who play Polytopia. Tap 'Friends' to add them.",
   "onlineview.or": "or",
@@ -858,7 +1010,7 @@
   "onlineview.game.size": "Map Size",
   "onlineview.game.moreinfo": "More info",
   "onlineview.game.gameinfo": "Game Info",
-  "onlineview.game.you": "Silu",
+  "onlineview.game.you": "You",
   "onlineview.game.resign": "RESIGN",
   "onlineview.game.decline": "DECLINE",
   "onlineview.game.delete": "DELETE",
@@ -870,6 +1022,8 @@
   "onlineview.game.player.kicked": "You have been removed from game {0}",
   "onlineview.game.player.invited": "You are invited to a new game, {0}",
 
+  
+  
   "firebaseservice.status.connecting": "Connecting to the Polytopia server...",
   "firebaseservice.status.loading": "Loading game data...",
   "firebaseservice.status.loading.count": "Loading game data, {0} left",
@@ -884,7 +1038,10 @@
   "firebaseservice.invite": "You are invited to a new game, {0}",
   "firebaseservice.removed": "You have been removed from game {0}",
 
+  
+  
   "friendlist.title": "FRIEND LIST",
+  
   "friendlist.new.caps": "ADD FRIEND",
   "friendlist.new.title": "Add a new friend",
   "friendlist.new.info": "Enter the player ID of your friend. (they can find it on this Friend page on their device)",
@@ -904,6 +1061,7 @@
   "friendlist.new.error.info": "Could not find player with the ID {0}.",
   "friendlist.new.error2.title": "Player not found",
   "friendlist.new.error2.info": "Could not find any player with the ID {0}. Error: {1}",
+  
   "friendlist.loading": "Loading friends...",
   "friendlist.error": "Error loading friends",
   "friendlist.friends": "Friends",
@@ -920,12 +1078,39 @@
   "friendlist.friend.notupdated": "{0} is still on the old server",
   "friendlist.removed.title": "Player Removed",
   "friendlist.removed.info": "Removed player {0}",
+  "friendlist.friendrequests": "Friend Requests",
+  "friendlist.pendinginvitations": "Pending Invitations",
+  "friendlist.rejectedinvitations": "Rejected Invitations",
+  "friendlist.new.Search": "SEARCH",
+  "friendlist.new.accept": "ACCEPT",
+  "friendlist.new.reject": "REJECT",
+  "friendlist.new.Results": "Results:",
+  
+  "friendlist.requestrecieved": "Friend Request Received",
+  "friendlist.requestaccepted": "Friend Request Accepted",
+  "friendlist.reloading": "Reloading..",
+  "friendlist.uptodate": "Everything is up to date",
+  "friendlist.loaderror": "Could not connect to the multiplayer server. Check your internet connection and try again.",
+  "friendlist.cancelinvite.button": "CANCEL INVITE",
+  "friendlist.acceptinvite.button": "ACCEPT INVITE",
 
+  "friendlist.friendshipstate": "Friendship status: {0}",
+  "friendlist.friendshipstate.none": "You're not friends with this player. Maybe you would like to be?",
+  "friendlist.friendshipstate.isyou": "This is you.",
+  "friendlist.friendshipstate.accepted": "Friend request accepted. You are both friends.",
+  "friendlist.friendshipstate.sentrequest": "Friend request sent. Waiting for response.",
+  "friendlist.friendshipstate.receivedrequest": "{0} has sent you a friend request. If you accept it possible for you to invite each other to multiplayer games.",
+  "friendlist.friendshipstate.rejected": "Friend request rejected.",
+
+  
+  
   "idconsole.playerid": "Your Player ID:",
   "idconsole.share": "Send this Player ID to anyone you want to play against. Tap it to copy.",
   "idconsole.clipboard": "Player ID {0} added to clipboard",
   "idconsole.clipboard.title": "Voilà!",
 
+  
+  
   "playerpickerview.title": "PICK PLAYERS",
   "playerpickerview.name": "Game Name",
   "playerpickerview.startgame": "START GAME",
@@ -938,6 +1123,8 @@
   "playerpickerview.human": "No human player",
   "playerpickerview.human.info": "There needs to be at least one human player to start a game",
 
+  
+  
   "gameitem.join": "Join this game or decline the invitation",
   "gameitem.join.wait": "Waiting for {0} to pick tribe",
   "gameitem.ready": "Ready to start!",
@@ -947,6 +1134,7 @@
   "gameitem.gameover": "This game is over, tap to see the end.",
   "gameitem.pick": "{0}, pick your tribe",
   "gameitem.start": "{0}, start the game",
+  "gameitem.start.wait": "Waiting for {0} to start the game",
   "gameitem.turn": "{0}, take your turn",
   "gameitem.ended": "This game is over.",
   "gameitem.pending": "Pending. Open and save to server.",
@@ -969,6 +1157,8 @@
   "gameitem.remind.notify": "Done",
   "gameitem.remind.notify.info": "Reminder sent to {0}",
 
+  
+  
   "mplayerstats.title": "PLAYER PROFILE",
   "mplayerstats.clear": "clear data",
   "mplayerstats.reload": "reload multiplayer data",
@@ -978,27 +1168,45 @@
   "mplayerstats.games": "Games Played",
   "mplayerstats.server": "Server version",
   "mplayerstats.lost": "Feeling lost? Check the:",
+  "mplayerstats.appversion": "App version:",
+  "mplayerstats.reloading": "Reloading..",
+  "mplayerstats.uptodate": "Everything is up to date",
+  "mplayerstats.loaderror": "Could not connect to the multiplayer server. Check your internet connection and try again.",
 
+  
+  
   "credits.title": "ABOUT",
   "credits.subtitle": "Indie Delight",
-  "credits.midjiwan": "The Battle of Polytopia is constantly being created by Midjiwan, a tiny indie game studio in Stockholm, Sweden.\n\n This custom language was made by Citillan, a Polytopian Linguist, Member of the Polaris tribe, and Inventor of the Polaris Language. Check out their work at https://github.com/Citillan-Mapping/. Enjoy!",
+  "credits.midjiwan": "The Battle of Polytopia is constantly being created by Midjiwan, a tiny indie game studio in Stockholm, Sweden.\n\n This custom language was made by Citillan, a Polytopian Linguist, Member of the Polaris tribe, and the Creator of the Polarisi Language.\n\n Check out their work at https://github.com/Citillan-Mapping/.",
+  "credits.followus": "Follow Us",
+  "credits.platforms": "",
   "credits.learnmore1": "Want to know everything?",
   "credits.learnmore2": "Check the extensive Wikia database created by the Polytopia community:",
   "credits.wiki": "POLYTOPIA WIKI",
+  "credits.polytopiamusic1": "Want to ",
+  "credits.polytopiamusic2": "",
+  "credits.music": "",
   "credits.showsupport": "Show your support!",
   "credits.getmerch": "Get some official Polytopian merch:",
   "credits.visitshop": "VISIT THE SHOP",
-  "credits.programming": "Programming & Design",
-  "credits.sound": "Sound & Music",
-  "credits.tribe": "Tribe Design",
+  "credits.design": "Game Design",
+  "credits.artists": "Artists",
+  "credits.sound": "Audio & Music",
+  "credits.programming": "Programmers",
+  "credits.qa": "Quality Assurance",
+  "credits.community": "Community Manager",
+  "credits.management": "Management",
   "credits.debuginfo": "Debug info",
   "credits.build": "Build version",
   "credits.os": "OS",
   "credits.screendpi": "Screen DPI",
   "credits.screensize": "Screen size",
+  "credits.device": "Device",
   "credits.privacy": "Privacy Policy",
   "credits.terms": "Terms of Service",
 
+  
+  
   "date.day": "day",
   "date.days": "days",
   "date.hour": "hour",
@@ -1008,40 +1216,8 @@
   "date.second": "second",
   "date.seconds": "seconds",
 
-  "friendlist.friendrequests": "Friend Requests",
-  "friendlist.pendinginvitations": "Pending Invitations",
-  "friendlist.rejectedinvitations": "Rejected Invitations",
-  "friendlist.new.Search": "SEARCH",
-  "friendlist.new.accept": "ACCEPT",
-  "friendlist.new.reject": "REJECT",
-  "friendlist.new.Results": "Results:",
-  "friendlist.requestrecieved": "Friend Request Received",
-  "friendlist.requestaccepted": "Friend Request Accepted",
-
-  "mplayerstats.appversion": "App version:",
-
-  "gameitem.start.wait": "Waiting for {0} to start the game",
-
-  "gamesettings.disableTribes": "Enable or Disable Tribes",
-
+  
+  
   "startmenu.quit": "QUIT",
   "buttons.quit": "Quit",
-
-  "mplayerstats.reloading": "Reloading..",
-  "mplayerstats.uptodate": "Everything is up to date",
-  "mplayerstats.loaderror": "Could not connect to the multiplayer server. Check your internet connection and try again.",
-
-  "friendlist.reloading": "Reloading..",
-  "friendlist.uptodate": "Everything is up to date",
-  "friendlist.loaderror": "Could not connect to the multiplayer server. Check your internet connection and try again.",
-  "friendlist.cancelinvite.button": "CANCEL INVITE",
-  "friendlist.acceptinvite.button": "ACCEPT INVITE",
-
-  "friendlist.friendshipstate": "Friendship status: {0}",
-  "friendlist.friendshipstate.none": "You're not friends with this player. Maybe you would like to be?",
-  "friendlist.friendshipstate.isyou": "This is you.",
-  "friendlist.friendshipstate.accepted": "Friend request accepted. You are both friends.",
-  "friendlist.friendshipstate.sentrequest": "Friend request sent. Waiting for response.",
-  "friendlist.friendshipstate.receivedrequest": "{0} has sent you a friend request. If you accept it possible for you to invite each other to multiplayer games.",
-  "friendlist.friendshipstate.rejected": "Friend request rejected."
 }
