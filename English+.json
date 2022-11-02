@@ -451,7 +451,7 @@
   "actionbox.building.level": "level {0}/{1}",
   "actionbox.tile.roads": "roads",
   "actionbox.city": "The city of {0}",
-  "actionbox.city.level": "lvl {0}",
+  "actionbox.city.level": "lvl {1}",
   "actionbox.village": "Village",
   
   "actionbox.unit.Frozen": "Frozen",
@@ -490,7 +490,7 @@
   "tooltip.tile.sailing": "Move a unit here to start sailing!",
   "tooltip.tile.monuments": "Monuments gives your empire extra score!",
   "tooltip.tile.ruin": "Move a unit here and examine these ancient ruins.",
-  "tooltip.tile.blocked": "This resource is blocked by an enemy unit",
+  "tooltip.tile.blocked": "This resource is obstructed by an enemy unit",
   "tooltip.tile.extract.upgrade": "Extract this resource to upgrade your city",
   "tooltip.tile.extract.convert": "This resource can be transformed into a unit",
   "tooltip.tile.extract.stars": "Extract this resource to earn stars instantly",
@@ -935,6 +935,9 @@
   "settings.scale.medium": "2",
   "settings.scale.large": "3",
   "settings.scale.verylarge": "4",
+  
+  
+  
   "throne.title": "THRONE ROOM",
   "throne.reset": "reset scores",
   "throne.playerinfo": "Player Info",
