@@ -1,5 +1,5 @@
 {
-  
+  "language": "English+",
   "startmenu.new_game": "NEW GAME",
   "startmenu.multiplayer": "MULTIPLAYER",
   "startmenu.resume_game": "RESUME GAME",
@@ -202,7 +202,7 @@
   "tribes.imperius.info2": "{0} starts the game with the '{1}' tech.",
   
   "tribes.bardur": "Bardur",
-  "tribes.bardur.info": "Surviving the harsh eternal winter of Barduria is not at all quite the easy task, but here the {0} seems to thrive here, harvesting timber from the local forests to build up their wooden cities.",
+  "tribes.bardur.info": "Surviving the harsh eternal winter of Barduria is not at all quite the easy task, but here the {0} seems to thrive here, harvesting timber from the local forests to build their massive wooden cities.",
   "tribes.bardur.info2": "{0} starts the game with the '{1}' tech.",
   
   "tribes.oumaji": "Oumaji",
@@ -354,7 +354,7 @@
   "unit.names.warrior": "Warrior",
   "unit.names.rider": "Rider",
   "unit.names.knight": "Knight",
-  "unit.names.defender": "Defenders",
+  "unit.names.defender": "Defender",
   "unit.names.ship": "Ship",
   "unit.names.battleship": "Battleship",
   "unit.names.catapult": "Catapult",
@@ -369,6 +369,7 @@
   "unit.names.polytaur": "Polytaur",
   "unit.names.navalon": "Navalon",
   "unit.names.mooni": "Mooni",
+  "unit.names.icearcher": "Ice Archer",
   "unit.names.battlesled": "Battle Sled",
   "unit.names.icefortress": "Ice Fortress",
   "unit.names.shaman": "Shaman",
@@ -451,7 +452,7 @@
   "actionbox.building.level": "level {0}/{1}",
   "actionbox.tile.roads": "roads",
   "actionbox.city": "The city of {0}",
-  "actionbox.city.level": "lvl {1}",
+  "actionbox.city.level": "lvl {0}",
   "actionbox.village": "Village",
   
   "actionbox.unit.Frozen": "Frozen",
@@ -546,7 +547,6 @@
   "tooltip.ability.surprise": "The unit attacked by this unit has it's retalitory attack disabled.",
   "tooltip.ability.hide": "This unit can become invisible.",
   "tooltip.ability.infiltrate": "This unit can summon riots adjacent to enemy cities. riots can prevent the collection of city income.",
-  "tooltip.ability.detect": "This unit can detect the presence of nearby invisible units.",
 
   
   
@@ -778,7 +778,9 @@
   "action.info.peacetreaty": "",
   "action.info.establishembassy": "",
   "action.info.breakpeace": "",
-
+  
+  
+  
   "actionbtn.upgrade": "Upgrade to {0}",
   "actionbtn.remove.building": "Building",
   "actionbtn.remove.roads": "Roads",
@@ -954,7 +956,7 @@
   "throne.google.achievements": "ACHIEVEMENTS",
   "throne.google.signedin": "You are signed in using Google Play",
   "throne.google.out": "SIGN OUT",
-  "throne.google.info": "(!)You need to sign in with Google Play to save your game data and high scores.",
+  "throne.google.info": "(!) You need to sign in with Google Play to save your game data and high scores.",
   "throne.google.in": "SIGN IN",
 
   
@@ -1180,7 +1182,7 @@
   
   "credits.title": "ABOUT",
   "credits.subtitle": "Indie Delight",
-  "credits.midjiwan": "The Battle of Polytopia is constantly being created by Midjiwan, a tiny indie game studio in Stockholm, Sweden.\n\n This custom language was made by Citillan, a Polytopian Linguist, Member of the Polaris tribe, and the Creator of the Polarisi Language.\n\n Check out their work at https://github.com/Citillan-Mapping/.",
+  "credits.midjiwan": "The Battle of Polytopia is constantly being created by Midjiwan, a tiny indie game studio in Stockholm, Sweden.\n\n This custom language was made by Citillan, a Polytopian Linguist and the Creator of the Polarisi Language.\n\n Check out their work at https://github.com/Citillan/.",
   "credits.followus": "Follow Us",
   "credits.platforms": "",
   "credits.learnmore1": "Want to know everything?",
