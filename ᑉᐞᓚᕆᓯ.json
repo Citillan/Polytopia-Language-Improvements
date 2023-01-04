@@ -1,5 +1,5 @@
 {
-  "language": "ᑎᕈᒥᓵ ᑉᐞᓚᕆᓯᓇᕻ",
+  "language": "Tirumisaa Polarisinaq",
   "startmenu.new_game": "NEW GAME",
   "startmenu.multiplayer": "MULTIPLAYER",
   "startmenu.resume_game": "RESUME GAME",
@@ -18,7 +18,7 @@
   "tribepicker.categories.specialtribes.description": "A collection of unique tribes with very different playing styles and special abilities...",
   "tribepicker.categories.random": "Click here for a suprize!",
   "tribepicker.categories.random.button": "RANDOM TRIBE",
-  "tribepicker.categories.random.selected.title": "Suprize!",
+  "tribepicker.categories.random.selected.title": "Aleni!",
   "tribepicker.categories.random.selected.text": "Random tribe selected",
   "tribepicker.restore": "restore purchases",
   "tribepicker.restoring": "restoring...",
@@ -74,11 +74,11 @@
   "gamesettings.createslot.error": "Error creating game",
   "gamesettings.createslot.error.info": "Make sure you are online and try again.",
   "gamesettings.size": "",
-  "gamesettings.size.tiny": "Very Small",
+  "gamesettings.size.tiny": "121",
   "gamesettings.size.small": "Small",
   "gamesettings.size.normal": "Medium Small",
   "gamesettings.size.large": "Medium Large",
-  "gamesettings.size.huge": "Large",
+  "gamesettings.size.huge": "900",
   "gamesettings.size.massive": "Very Large",
   "gamesettings.map": "Map Composition",
   "gamesettings.map.dryland": "Plains",
@@ -151,7 +151,7 @@
   "world.turn.last": "Last turn!",
   "world.turn.replaying": "Replaying...",
   
-  "world.unit.info.from": "From the city of {0}.",
+  "world.unit.info.from": "{0}tulapalu.",
   "world.unit.veteran": "This unit has the status of a Veteran. this unit has increased health.",
   "world.unit.veteran.progress": "{0}/{1} to become a veteran.",
   "world.unit.ability": "Unit Ability",
@@ -166,10 +166,10 @@
   "world.unit.evolve.title": "Unit Growth",
   "world.unit.dissolved": "Your unit has dissolved",
   
-  "world.building.info": "The city of {0}",
+  "world.building.info": "{0}tula",
   "world.building.village": "Village",
   "world.building.capture.ready": "Will be ready to capture next turn",
-  "world.building.capture.ready.title": "Entering {0}!",
+  "world.building.capture.ready.title": "{0}tulasiri!",
   "world.building.capture.warning": "your city will be captured next turn if you don't stop them.",
   "world.building.capture.warning.title": "{0} is under siege!",
   
@@ -201,7 +201,7 @@
   "tribes.imperius.info": "The land of Imperia with it's many huge mountains, green valleys, and mild climate, have been know to be home of the {0}, a tribe ready to expand their empire beyond the horizon.",
   "tribes.imperius.info2": "{0} starts the game with the '{1}' tech.",
   
-  "tribes.bardur": "---",
+  "tribes.bardur": "Vasatarusa",
   "tribes.bardur.info": "Surviving the harsh eternal winter of Barduria is not at all quite the easy task, but here the {0} seems to thrive here, harvesting timber from the local forests to build up their wooden cities.",
   "tribes.bardur.info2": "{0} starts the game with the '{1}' tech.",
   
@@ -242,7 +242,7 @@
   "tribes.yadakk.info": "The {0} started out as a nomadic tribe in the beautiful Khalee plains. Now that they managed to settle, they have now become are the traders of the square, connecting their empire with impressive trade routes.",
   "tribes.yadakk.info2": "{0} starts the game with the '{1}' tech.",
   
-  "tribes.aquarion": "Nariqanu",
+  "tribes.aquarion": "Naqarinu",
   "tribes.aquarion.info": "From the depths beneath oceans, the long lost {0} civilization arises from the crashing waves below, towering into the clear skies above!\n\nTheir extreme isolation has given them special aquatic abilities that are unknown to the other more human tribes and has allowed them to befriend the local marine life.",
   "tribes.aquarion.info2": "{0} starts the game with the '{1}' tech and have access to the unique amphibious units that no other tribe can train.",
   
@@ -258,6 +258,10 @@
   "tribes.cymanti.info": "The {0} are a breakout group of Polytopians who moved into the unknown and learned to live with the Ciru Bug, which attaches to their faces and merges with their brains. \n\nLed by their Shaman, the {0} train gigantic bugs and use their enemies to fertilize their fungi farms, with the goal to vanquish all who would threaten their marshy home!",
   "tribes.cymanti.info2": "{0} starts the game with the '{1}' tech and the power to boost units and unleash crippling poisons.",
 
+  "tribes.ancients": "Tenasagirati",
+  "tribes.ancients.info": "The {0} are a breakout group of Polytopians who moved into the unknown and learned to live with the Ciru Bug, which attaches to their faces and merges with their brains. \n\nLed by their Shaman, the {0} train gigantic bugs and use their enemies to fertilize their fungi farms, with the goal to vanquish all who would threaten their marshy home!",
+  "tribes.ancients.info2": "{0} starts the game with the '{1}' tech and the power to boost units and unleash crippling poisons.",
+  
   
   
   "building.capital.owner": "{0} is the {1} capital",
@@ -351,7 +355,7 @@
   "unit.names.bunny": "Nature Bunny",
   "unit.names.scout": "Scout",
   "unit.names.boat": "Boat",
-  "unit.names.warrior": "Warrior",
+  "unit.names.warrior": "Kanahintativanisuju",
   "unit.names.rider": "Rider",
   "unit.names.knight": "Knight",
   "unit.names.defender": "Defenders",
@@ -360,7 +364,7 @@
   "unit.names.catapult": "Catapult",
   "unit.names.archer": "Archer",
   "unit.names.mindbender": "Mind Bender",
-  "unit.names.swordsman": "Swordsman",
+  "unit.names.swordsman": "Niałisukanahintativanisuju",
   "unit.names.amphibian": "Amphibian",
   "unit.names.tridention": "Tridention",
   "unit.names.dragonegg": "Dragon Egg",
@@ -368,8 +372,8 @@
   "unit.names.firedragon": "Fire Dragon",
   "unit.names.polytaur": "Polytaur",
   "unit.names.navalon": "Navalon",
-  "unit.names.mooni": "Mooni",
-  "unit.names.battlesled": "Battle Sled",
+  "unit.names.mooni": "Muni",
+  "unit.names.battlesled": "Innikuli",
   "unit.names.icefortress": "Ice Fortress",
   "unit.names.shaman": "Shaman",
   "unit.names.hexapod": "Hexapod",
@@ -392,9 +396,9 @@
   "unit.abilities.build": "Build",
   "unit.abilities.persist": "Persist",
   "unit.abilities.convert": "Convert",
-  "unit.abilities.heal": "Heal",
+  "unit.abilities.heal": "Valiranitini",
   "unit.abilities.swim": "Sail",
-  "unit.abilities.carry": "Carry",
+  "unit.abilities.carry": "Milananitini",
   "unit.abilities.grow": "Grow",
   "unit.abilities.fly": "Fly",
   "unit.abilities.splash": "Splash",
@@ -403,14 +407,14 @@
   "unit.abilities.freeze": "Freeze",
   "unit.abilities.freezearea": "Freeze Area",
   "unit.abilities.autofreeze": "Auto Freeze",
-  "unit.abilities.skate": "Skate",
+  "unit.abilities.skate": "Initiituliilsanitini",
   "unit.abilities.fortify": "Fortify",
   "unit.abilities.creep": "Creep",
   "unit.abilities.explode": "Explode",
   "unit.abilities.poison": "Poison",
   "unit.abilities.independent": "Independent",
   "unit.abilities.boost": "Boost",
-  "unit.abilities.eat": "Eat",
+  "unit.abilities.eat": "Iqtanuunitini",
   "unit.abilities.surprise": "Suprise",
   "unit.abilities.hide": "Hide",
   "unit.abilities.infiltrate": "Infiltrate",
@@ -420,7 +424,7 @@
   
   "player.abilities.destroy": "destroy",
   "player.abilities.disband": "disband",
-  "player.abilities.literacy": "literacy",
+  "player.abilities.literacy": "qiniqnitini",
   "player.abilities.glide": "glide",
   "player.abilities.peacetreaty": "Peace Treaty",
   "player.abilities.embassy": "Embassy",
@@ -428,9 +432,9 @@
   
   
   
-  "resource.names.fruit": "fruit",
+  "resource.names.fruit": "lura",
   "resource.names.crop": "crop",
-  "resource.names.fish": "fish",
+  "resource.names.fish": "iqisaqa",
   "resource.names.whale": "whale",
   "resource.names.game": "wild animal",
   "resource.names.metal": "metal",
@@ -443,14 +447,14 @@
   "terrain.field": "Field",
   "terrain.forest": "Forest",
   "terrain.mountain": "Mountain",
-  "terrain.ice": "Ice",
+  "terrain.ice": "Initiituli",
   "terrain.algae": "Algae",
   
   
   
   "actionbox.building.level": "level {0}/{1}",
   "actionbox.tile.roads": "roads",
-  "actionbox.city": "The city of {0}",
+  "actionbox.city": "{0}tula",
   "actionbox.city.level": "lvl {0}",
   "actionbox.village": "Village",
   
@@ -651,7 +655,7 @@
   "wcontroller.unit.promotion.title": "Unit Promoted!",
   "wcontroller.meet.tribe.leader": "Their leader",
   "wcontroller.meet.tribe.bigger.hostile": "Insults you and laughs at the pathetic existence of your tribe",
-  "wcontroller.meet.tribe.bigger.friendly": "salutes you friendly but pays no attention to existence of your tiny realm.",
+  "wcontroller.meet.tribe.bigger.friendly": "salutes you friendly but pays no attention to the existence of your tiny realm.",
   "wcontroller.meet.tribe.smaller.hostile": "seems a bit hostile and greets you suspiciously.",
   "wcontroller.meet.tribe.smaller.friendly": "bows in awe of your mighty civilization.",
   "wcontroller.meet.tribe.tech.hostile": "You manage to learn the secret of {0}!",
@@ -853,7 +857,7 @@
   "multiplayer.finishedgames": "Finished Games",
   "multiplayer.creategame": "Create game",
   "multiplayer.clipboard": "Gamedata added to clipboard",
-  "multiplayer.clipboard.title": "Voilà!",
+  "multiplayer.clipboard.title": "Aleni!",
 
   
   
