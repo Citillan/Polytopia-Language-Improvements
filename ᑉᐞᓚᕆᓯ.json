@@ -166,7 +166,7 @@
   "world.unit.evolve.title": "Unit Growth",
   "world.unit.dissolved": "Your unit has dissolved",
   
-  "world.building.info": "{0}tula",
+  "world.building.info": "{1}tula",
   "world.building.village": "Village",
   "world.building.capture.ready": "Will be ready to capture next turn",
   "world.building.capture.ready.title": "{0}tulasiri!",
@@ -264,7 +264,7 @@
   
   
   
-  "building.capital.owner": "{0} is the {1} capital",
+  "building.capital.owner": "{0}tulamita {1}mitaqquttana capital",
   "building.capital.owner.former": "{0} is the former capital of the {1} empire, currently occupied by {2} forces",
   "building.city.owner": "{0} is a city in the {1} empire",
   "building.village.owner": "This is a village that doesn't belong to any tribe",
