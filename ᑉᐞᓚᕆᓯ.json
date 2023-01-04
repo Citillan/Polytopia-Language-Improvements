@@ -151,7 +151,7 @@
   "world.turn.last": "Last turn!",
   "world.turn.replaying": "Replaying...",
   
-  "world.unit.info.from": "{1}tulapalu.",
+  "world.unit.info.from": "{0}tulapalu.",
   "world.unit.veteran": "This unit has the status of a Veteran. this unit has increased health.",
   "world.unit.veteran.progress": "{0}/{1} to become a veteran.",
   "world.unit.ability": "Unit Ability",
@@ -166,7 +166,7 @@
   "world.unit.evolve.title": "Unit Growth",
   "world.unit.dissolved": "Your unit has dissolved",
   
-  "world.building.info": "{1}tula",
+  "world.building.info": "{0}tula",
   "world.building.village": "Village",
   "world.building.capture.ready": "Will be ready to capture next turn",
   "world.building.capture.ready.title": "{0}tulasiri!",
