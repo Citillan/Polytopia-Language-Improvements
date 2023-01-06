@@ -7,11 +7,13 @@
   "startmenu.high_score": "High Score",
   "startmenu.throne_room": "Throne Room",
   "startmenu.about": "About",
-
+  
   "news.title": "POLYTOPIA NEWS",
   "news.description": "Welcome!\n This is where we share the latest news from the Polytopia universe. Stay tuned!",
   "gamemodepicker.title": "GAME MODE",
 
+  
+  
   "tribepicker.title": "PICK YOUR TRIBE",
   "tribepicker.categories.humantribes": "Regular Tribes",
   "tribepicker.categories.specialtribes": "Special Tribes",
@@ -48,7 +50,9 @@
   "tribepicker.players": "{0} players",
   "tribepicker.mapsize": "Map Size: {0} tiles",
   "tribepicker.gamemode": "Game Mode: {0}",
-
+  
+  
+  
   "gamesettings.title": "GAME SETUP",
   "gamesettings.yourname": "Your name",
   "gamesettings.anonymous": "Anonymous",
@@ -258,6 +262,11 @@
   "tribes.cymanti.info": "The {0} are a breakout group of Polytopians who moved into the unknown and learned to live with the Ciru Bug, which attaches to their faces and merges with their brains. \n\nLed by their Shaman, the {0} train gigantic bugs and use their enemies to fertilize their fungi farms, with the goal to vanquish all who would threaten their marshy home!",
   "tribes.cymanti.info2": "{0} starts the game with the '{1}' tech and the ability to boost units and unleash crippling poisons.",
 
+  "tribes.ancients": "Ancient Polytopians",
+  "tribes.ancients.info": "Ancients TBA",
+  "tribes.ancients.info2": "{0} starts the game with the '{1}' tech.",
+  
+  
   "TribeSkins/skinName": "{0} skin",
   
   "TribeSkins/tribeskins.baerion": "Baergøff",
