@@ -264,6 +264,19 @@
   
   
   
+  "TribeSkins/skinName": "{0} skin",
+  
+  "TribeSkins/tribeskins.baerion": "Baergøff",
+  "TribeSkins/tribeskins.baerion.description": "The Baergøff are the {0}'s elite hunters. Clad in the sanctified pelt of their first Baerion kill, they're ready for anything!",
+  
+  "TribeSkins/tribeskins.ranger": "Yorthwober",
+  "TribeSkins/tribeskins.ranger.description": "Bands of the {0}'s finest sharpshooters and survivalists, the Yorthwober know their way around combat just as well as they do the hills and forests.",
+  
+  "TribeSkins/tribeskins.skeleton": "Cultist",
+  "TribeSkins/tribeskins.skeleton.description": "Fanatical {0} Cultists devoted to Burzgor shrug off their flesh in the harrowing Thdkrkr Ritual to show their dedication to revenge.",
+  
+  
+  
   "building.capital.owner": "{0}tulamita {1}mitaqquttana capital",
   "building.capital.owner.former": "{0} is the former capital of the {1} empire, currently occupied by {2} forces",
   "building.city.owner": "{0} is a city in the {1} empire",
