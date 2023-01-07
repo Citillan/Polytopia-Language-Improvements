@@ -10,6 +10,7 @@
   
   "news.title": "POLYTOPIA NEWS",
   "news.description": "Welcome!\n This is where we share the latest news from the Polytopia universe. Stay tuned!",
+  "news.timeago": "{0} ago",
   "gamemodepicker.title": "GAME MODE",
 
   
@@ -1211,9 +1212,9 @@
   "credits.learnmore1": "Want to know everything?",
   "credits.learnmore2": "Check the extensive Wikia database created by the Polytopia community:",
   "credits.wiki": "POLYTOPIA WIKI",
-  "credits.polytopiamusic1": "Want to ",
-  "credits.polytopiamusic2": "",
-  "credits.music": "",
+  "credits.polytopiamusic1": "Want to listen to full-length versions of your favorite tribe themes?",
+  "credits.polytopiamusic2": "Check out the official Polytopia Music album on Spotify:",
+  "credits.music": "POLYTOPIA MUSIC",
   "credits.showsupport": "Show your support!",
   "credits.getmerch": "Get some official Polytopian merch:",
   "credits.visitshop": "VISIT THE SHOP",
@@ -1243,8 +1244,10 @@
   "date.minutes": "minutes",
   "date.second": "second",
   "date.seconds": "seconds",
-
-  "news.timeago": "{0} ago",
+  
+  "date.today": "today",
+  "date.tomorrow": "tomorrow",
+  "date.yesterday": "yesterday",
   
   "startmenu.quit": "QUIT",
   "buttons.quit": "Quit",
