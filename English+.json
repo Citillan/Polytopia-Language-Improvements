@@ -668,12 +668,13 @@
   "wcontroller.unit.promotion": "Your unit has gained veteran status! Health increased.",
   "wcontroller.unit.promotion.title": "Unit Promoted!",
   "wcontroller.meet.tribe.leader": "Their leader",
-  "wcontroller.meet.tribe.bigger.hostile": "Insults you and laughs at the pathetic existence of your tribe",
-  "wcontroller.meet.tribe.bigger.friendly": "salutes you friendly but pays no attention to existence of your tiny realm.",
-  "wcontroller.meet.tribe.smaller.hostile": "seems a bit hostile and greets you suspiciously.",
-  "wcontroller.meet.tribe.smaller.friendly": "bows in awe of your mighty civilization.",
+  "wcontroller.meet.tribe.bigger.hostile": " Insults you and laughs at the pathetic existence of your tribe",
+  "wcontroller.meet.tribe.bigger.friendly": " salutes you friendly but pays no attention to existence of your tiny realm.",
+  "wcontroller.meet.tribe.smaller.hostile": " seems a bit hostile and greets you suspiciously.",
+  "wcontroller.meet.tribe.smaller.friendly": " bows in awe of your mighty civilization.",
   "wcontroller.meet.tribe.tech.hostile": "You manage to learn the secret of {0}!",
   "wcontroller.meet.tribe.tech.friendly": "As a gesture of good will, they share with you the secret of {0}!",
+  "wcontroller.meet.tribe.resource.boost": "The discovery of this {0} tribe gives you a one-time trade boost of {1} stars!",
   "wcontroller.meet.tribe.resource.hostile": "You manage to steal some valuable gold pieces!",
   "wcontroller.meet.tribe.resource.friendly": "They present you with a gift of valuable resources!",
   "wcontroller.tribe.destroy": "You have destroyed the {0}!",
@@ -681,6 +682,10 @@
   "wcontroller.tribe.destroy2": "{0} has been destroyed by the {1}!",
   "wcontroller.tribe.destroy.all": "You have destroyed all opposing tribes and unified the entire square under your command!",
   "wcontroller.tribe.destroy.all.title": "Domination!",
+  "wcontroller.tribe.level_1": "curious",
+  "wcontroller.tribe.level_2": "sprawling",
+  "wcontroller.tribe.level_3": "impressive",
+  "wcontroller.tribe.level_4": "epic",
   "wcontroller.city.disconnect": "{0} was disconnected from {1}",
   "wcontroller.city.disconnect.title": "Trade route lost!",
   "wcontroller.turn.end": "Ending turn...",
@@ -1239,7 +1244,7 @@
   "date.second": "second",
   "date.seconds": "seconds",
 
-  
+  "news.timeago": "{0} ago"
   
   "startmenu.quit": "QUIT",
   "buttons.quit": "Quit",
