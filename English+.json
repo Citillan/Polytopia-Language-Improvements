@@ -796,7 +796,7 @@
   "technology.names.recycling": "Decomposition",
   "technology.names.shock": "Shock Tactics",
   
-  
+  "technology.requirements": "You need to research {0} to perform this action",
   
   "techview.info": "Tech costs increase for each city in your empire. Research a tech to unlock the Abilities, Units, and Skills it offers.",
   "techview.info.literacy": "Literacy reduce the price of all technologies by 33%.",
@@ -836,9 +836,9 @@
   "action.info.reward.resources": "That will give you an instant reward of {0} resources",
   "action.info.research": "research {0}.",
   "action.info.boost": "Boost",
-  "action.info.peacetreaty": "",
-  "action.info.establishembassy": "",
-  "action.info.breakpeace": "",
+  "action.info.peacetreaty": "Offer Peace",
+  "action.info.establishembassy": "Establish Embassy",
+  "action.info.breakpeace": "Break Peace",
   
   
   
@@ -1275,17 +1275,17 @@
   "credits.wiki": "POLYTOPIA WIKI",
   "credits.polytopiamusic1": "Want to listen to full-length versions of your favorite tribe themes?",
   "credits.polytopiamusic2": "Check out the official Polytopia Music album on Spotify:",
-  "credits.music": "POLYTOPIA MUSIC",
+  "credits.music": "POLYTOPIA\nMUSIC",
   "credits.showsupport": "Show your support!",
   "credits.getmerch": "Get some official Polytopian merch:",
   "credits.visitshop": "VISIT THE SHOP",
   "credits.design": "Game Design",
   "credits.artists": "Artists",
   "credits.sound": "Audio & Music",
-  "credits.programming": "Programmers",
+  "credits.programmers": "Programmers",
   "credits.qa": "Quality Assurance",
   "credits.community": "Community Manager",
-  "credits.management": "Management",
+  "credits.managment": "Management",
   "credits.debuginfo": "Debug info",
   "credits.build": "Build version",
   "credits.os": "OS",
