@@ -18,16 +18,16 @@
   "tribepicker.categories.humantribes": "Regular Tribes",
   "tribepicker.categories.specialtribes": "Special Tribes",
   "tribepicker.categories.specialtribes.description": "A collection of unique tribes with very different playing styles and special abilities...",
-  "tribepicker.categories.random": "Click here for a suprize!",
+  "tribepicker.categories.random": "Click here for a surprise!",
   "tribepicker.categories.random.button": "RANDOM TRIBE",
-  "tribepicker.categories.random.selected.title": "Suprize!",
+  "tribepicker.categories.random.selected.title": "Surprise!",
   "tribepicker.categories.random.selected.text": "Random tribe selected",
   "tribepicker.restore": "restore purchases",
   "tribepicker.restoring": "restoring...",
   "tribepicker.reset": "reset purchases",
   "tribepicker.tba": "TBA",
   "tribepicker.underconstruction": "Under Construction",
-  "tribepicker.underconstruction.description": "We are still working on inventing this tribe. Growing fruits, developing languages and architecture. That takes time you know. Follow @Midjiwan on Instagram or Twitter and you will be the first to know when new tribes arrive!",
+  "tribepicker.underconstruction.description": "We are still working on inventing this tribe. Growing fruits, developing languages and architecture. That takes time, you know. Follow @Midjiwan on Instagram or Twitter and you will be the first to know when new tribes arrive!",
   "tribepicker.freetribe": "Free Tribe",
   "tribepicker.freetribe.description": "This tribe is available for free and cannot be purchased to enable online multiplayer.",
   "tribepicker.taken": "TAKEN",
@@ -136,7 +136,7 @@
   
   
   "world.intro.title": "Mighty Leader!",
-  "world.intro.text": "You have been chosen to rule the {0} tribe. Explore the world and expand your empire, but watch out for other tribes as they try to overrun your's.",
+  "world.intro.text": "You have been chosen to rule the {0} tribe. Explore the world and expand your empire, but watch out for other tribes as they try to overrun yours.",
   "world.intro.objective": "Objective: {0}",
   
   "world.turn.end": "End Turn",
@@ -202,7 +202,7 @@
   "tribes.xinxi.info2": "{0} starts the game with the '{1}' tech.",
   
   "tribes.imperius": "Imperius",
-  "tribes.imperius.info": "The land of Imperia with it's many huge mountains, green valleys, and mild climate, has been the home of the {0}, ready to expand their empire beyond the horizon.",
+  "tribes.imperius.info": "The land of Imperia with its many huge mountains, green valleys, and mild climate, has been the home of the {0}, ready to expand their empire beyond the horizon.",
   "tribes.imperius.info2": "{0} starts the game with the '{1}' tech.",
   
   "tribes.bardur": "Bardur",
