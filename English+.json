@@ -591,7 +591,7 @@
   "tooltip.ability.freezearea": "This unit can freeze any surrounding tiles and enemy units.",
   "tooltip.ability.autofreeze": "This unit can automatically freeze any surrounding tiles and any enemy units upon moving.",
   "tooltip.ability.skate": "This unit gets double movement on ice tiles. On land, however, its movement is limited to 1 tile and other abilities are disabled.",
-  "tooltip.ability.fortify": "This unit can recive a defence bonus when defending its own cities.",
+  "tooltip.ability.fortify": "This unit receives a defence bonus when defending its own cities.",
   "tooltip.ability.creep": "This unit can bypass terrain penalties without stopping.",
   "tooltip.ability.explode": "This unit can explode. The unit instantly dies, but all enemy units nearby take 50% of its HP in damage.",
   "tooltip.ability.poison": "This unit can inflict poison on an enemy. The enemy has reduced defence while poisoned.",
@@ -601,7 +601,9 @@
   "tooltip.ability.surprise": "The unit attacked by this unit has its retalitory attack disabled.",
   "tooltip.ability.hide": "This unit becomes invisible after moving.",
   "tooltip.ability.infiltrate": "This unit can summon riots adjacent to enemy cities. Riots prevent the collection of city income.",
-
+  "tooltip.ability.peacetreaty": "You can offer peace to tribes you've met. \nThis feature is found in the \"Tribe Info Screen\" accessed by clicking the name of a tribe.",
+  "tooltip.ability.embassy": "Allows embassies to be built in the capitals of other tribes. Embassies provide an income in stars to both sides. This income is doubled if you are at peace with them.",
+  "tooltip.ability.capitalvision": "Reveals the capital locations of every tribe you've met.",
   
   
   "buttons.ok": "OK",
@@ -762,7 +764,7 @@
   "technology.names.roads": "Roads",
   "technology.names.trade": "Trade",
   "technology.names.organization": "Organization",
-  "technology.names.shields": "Stratagy",
+  "technology.names.shields": "Strategy",
   "technology.names.diplomacy": "Diplomacy",
   "technology.names.farming": "Farming",
   "technology.names.construction": "Construction",
@@ -929,6 +931,7 @@
   "gamestatus.capitals": "Capitals Owned",
   "gamestatus.scores": "Scores",
   "gamestatus.ruled": "Ruled by {0}",
+  "gamestatus.ruled.bot": "bot",
   "gamestatus.ruled.you": "Ruled by you",
   "gamestatus.unknown.tribe": "Unknown tribe",
   "gamestatus.unknown.ruler": "Unknown ruler",
@@ -939,33 +942,53 @@
   "gamestatus.tasks": "Tasks {0}/{1}",
   "gamestatus.tasks.complete": "Complete!",
   
+  "opinion.noopinion": "They don't know about you yet.",
+  "opinion.reason.aggression": "aggressive",
+  "opinion.reason.aggression.description": "You've recently attacked them.",
+  "opinion.reason.brave": "brave",
+  "opinion.reason.brave.description": "You're fighting against the strongest tribe.",
+  "opinion.reason.commonrelation": "wise",
+  "opinion.reason.commonrelation.description": "You share the same allies or enemies.",
+  "opinion.reason.differentrelation": "foolish",
+  "opinion.reason.differentrelation.description": "You are at war with their allies, or you have made peace with their enemies.",
+  "opinion.reason.dislike": "annoying",
+  "opinion.reason.dislike.description": "For some reason, they just seem to dislike you.",
+  "opinion.reason.embassy": "diplomatic",
+  "opinion.reason.embassy.description": "You have good diplomatic relations through your embassies.",
+  "opinion.reason.intrusive": "intrusive",
+  "opinion.reason.intrusive.description": "Your borders are very close to theirs.",
+  "opinion.reason.like": "charming",
+  "opinion.reason.like.description": "For some reason, they just seem to like you.",
+  "opinion.reason.peaceful": "peaceful",
+  "opinion.reason.peaceful.description": "You haven't attacked them in a long time.",
+  "opinion.reason.powerful": "powerful",
+  "opinion.reason.powerful.description": "They are impressed by your military power.",
+  "opinion.reason.threatening": "threatening",
+  "opinion.reason.threatening.description": "You have units near their territory.",
+  "opinion.reason.weak": "weak",
+  "opinion.reason.weak.description": "Your army is weak compared to theirs. You're an easy target, so to speak.",
+  "opinion.reason.winning": "dominating",
+  "opinion.reason.winning.description": "You are about to win the game.",
   
+  "playerinfo.locked.researchdiplomacy": "Research Diplomacy to gain more insight.",
+  "playerinfo.locked.upgradeembassy": "Upgrade your embassy to gain more insight.",
+  "playerinfo.stats.income": "Income,
+  "playerinfo.summary.dead": "{0} was killed by {1} on turn {2}.",
+  "playerinfo.summary.reasons": "They think you are {0}.",
+  "playerinfo.summary.ruledby": "The {0} tribe is ruled by {1}.",
+  "playerinfo.title": "Tribe Info",
+  "playerinfo.triberelations.popup.neutral.description": "{0} has a neutral relation to {1}.",
+  "playerinfo.triberelations.popup.peaceneutral.description": "{0} has a peace treaty with {1}",
+  "playerinfo.triberelations.popup.peacepeace.description": "You are both at peace with {1}.",
+  "playerinfo.triberelations.popup.peacewar.description": "{0} has a peace treaty with your enemy, {1}.",
+  "playerinfo.triberelations.popup.title": "Tribe Relations",
+  "playerinfo.triberelations.popup.warneutral.description": "{0} is at war with {1}.",
+  "playerinfo.triberelations.popup.warpeace.description": "{0} is at war with your ally, {1}.",
+  "playerinfo.triberelations.popup.warwar.description": "You are both at war with {1}.",
+  "playerinfo.triberelations.title": "Tribe Relations:",
+  "playerinfo.triberelations.unknown": "You've not met this tribe yet.",
   
-  "diplomacy.state.peace": "",
-  "diplomacy.state.war": "",
-  
-  
-  
-  "opinion.love": "",
-  "opinion.hate": "",
-  
-  
-  
-  "playinfo.title": "",
-  "playinfo.summary.ruledby": "",
-  "playinfo.summary.reasons": "",
-  "playinfo.summary.war": "",
-  "playinfo.summary.neutral": "",
-  "playinfo.summary.peace": "",
-  "playinfo.triberelations.title": "",
-  "playinfo.triberelations.popup.title": "",
-  "playinfo.triberelations.popup.peacepeace.description": "",
-  "playinfo.triberelations.popup.neutral.description": "",
-  "playinfo.triberelations.popup.warwar.description": "",
-  
-  
-  
-  "playinfopopup.you.description": "",
+  "playerinfopopup.you.description": "This is you. Go you!",
 
   
   
