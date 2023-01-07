@@ -267,7 +267,7 @@
   "TribeSkins/skinName": "{0}",
   
   "TribeSkins/tribeskins.baerion": "Vasatarusa Nuutirinanaqiiatalujatasitivanisuju",
-  "TribeSkins/tribeskins.baerion.description": "The Baergøff are the {0}'s elite hunters. Clad in the sanctified pelt of their first Baerion kill, they're ready for anything!",
+  "TribeSkins/tribeskins.baerion.description": "The {1} are the {0}'s elite hunters. Clad in the sanctified pelt of their first Baerion kill, they're ready for anything!",
   
   "TribeSkins/tribeskins.ranger": "Yorthwober",
   "TribeSkins/tribeskins.ranger.description": "Bands of the {0}'s finest sharpshooters and survivalists, the Yorthwober know their way around combat just as well as they do the hills and forests.",
@@ -477,9 +477,9 @@
   "actionbox.unit.Invisible": "Invisible",
   "actionbox.unit.kills": "{0}/{1} kills",
   "actionbox.unit.veteran": "Veteran",
-  "actionbox.unit.new": "Train a new {0} {1}",
+  "actionbox.unit.new": "Isavinikanahintanitini {0}nakkuna {1}tana",
   "actionbox.unit.ability": "Unit Ability",
-  "actionbox.unit.train": "Train",
+  "actionbox.unit.train": "Isavinikanahinta",
   "actionbox.unit.upgrade": "Upgrade",
   "actionbox.unit.toomany": "(too many)",
   "actionbox.unit.toomany.info": "This city can't support any more units. Upgrade the city to get more space for units.",
