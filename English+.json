@@ -479,7 +479,7 @@
   "diplomacy.denypeace.description": "{0} rejected the peace treaty.",
   "diplomacy.denypeace.notification.description": "You rejected the {0} peace treaty.",
   "diplomacy.denypeace.notification.title": "No Deal",
-  "diplomacy.denypeace.title": "Barış antlaşması reddedildi",
+  "diplomacy.denypeace.title": "Peace treaty rejected",
   "diplomacy.destroyedembassy.description": "Your embassy in the {0} capital has been destroyed!",
   "diplomacy.destroyedembassy.description2": "The {0} embassy in your capital has been destroyed.",
   "diplomacy.destroyedembassy.title": "Embassy Destroyed",
@@ -972,7 +972,7 @@
   
   "playerinfo.locked.researchdiplomacy": "Research Diplomacy to gain more insight.",
   "playerinfo.locked.upgradeembassy": "Upgrade your embassy to gain more insight.",
-  "playerinfo.stats.income": "Income,
+  "playerinfo.stats.income": "Income",
   "playerinfo.summary.dead": "{0} was killed by {1} on turn {2}.",
   "playerinfo.summary.reasons": "They think you are {0}.",
   "playerinfo.summary.ruledby": "The {0} tribe is ruled by {1}.",
