@@ -989,8 +989,11 @@
   "playerinfo.triberelations.unknown": "You've not met this tribe yet.",
   
   "playerinfopopup.you.description": "This is you. Go you!",
-
   
+  "epithet.divine": "the Divine {0}",
+  "epithet.faithful": "the Faithful {0}",
+  "epithet.pathetic": "the Pathetic {0}",
+  "epithet.terrible": "the Terrible {0}",
   
   "settings.title": "SETTINGS",
   "settings.volume": "Audio volume {0}",
