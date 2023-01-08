@@ -438,7 +438,7 @@
   
   "player.abilities.destroy": "destroy",
   "player.abilities.disband": "disband",
-  "player.abilities.literacy": "qiniq",
+  "player.abilities.literacy": "qiniqnitini",
   "player.abilities.glide": "glide",
   "player.abilities.peacetreaty": "Peace Treaty",
   "player.abilities.embassy": "Embassy",
@@ -478,7 +478,7 @@
   "actionbox.unit.Invisible": "Invisible",
   "actionbox.unit.kills": "{0}/{1} kills",
   "actionbox.unit.veteran": "Veteran",
-  "actionbox.unit.new": "Isavinikanahintanitini {0}nakkuna {1}tana",
+  "actionbox.unit.new": "Isavinikanahintanitini {1}mita {0}nakkuna",
   "actionbox.unit.ability": "Unit Ability",
   "actionbox.unit.train": "Isavinikanahinta",
   "actionbox.unit.upgrade": "Upgrade",
