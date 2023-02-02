@@ -264,8 +264,8 @@
   "tribes.cymanti.info2": "{0} starts the game with the '{1}' tech and the ability to boost units and unleash crippling poisons.",
 
   "tribes.ancients": "Ancient Polytopians",
-  "tribes.ancients.info": "Ancients TBA",
-  "tribes.ancients.info2": "{0} starts the game with the '{1}' tech.",
+  "tribes.ancients.info": "Ancients TBA \n\nDespite being supposedly defeated in a great war eons ago, the Ancients, ancestors of all tribes, have now re-emerged from their hideout, ready to reclaim their land once and for all! \n\nWith the power of forgotten lightning spells at their fingertips, the Ancients now seek to take their revenge on the other tribes.",
+  "tribes.ancients.info2": "\n\nThe Ancients start with the '???' tech and the ability to turn ruins into cities. However, they do not capture villages, instead raiding them for resources and units. \n\nThanks HighFlyer for the description",
   
   
   "TribeSkins/skinName": "{0} skin",
