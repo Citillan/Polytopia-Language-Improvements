@@ -264,7 +264,7 @@
   "tribes.cymanti.info2": "{0} starts the game with the '{1}' tech and the ability to boost units and unleash crippling poisons.",
 
   "tribes.ancients": "Ancient Polytopians",
-  "tribes.ancients.info": "Ancients TBA \n\nDespite being supposedly defeated in a great war eons ago, the Ancients, ancestors of all tribes, have now re-emerged from their hideout, ready to reclaim their land once and for all! \n\nWith the power of forgotten lightning spells at their fingertips, the Ancients now seek to take their revenge on the other tribes.",
+  "tribes.ancients.info": "Ancients TBA... \n\nDespite being supposedly defeated in a great war eons ago, the Ancients, ancestors of all tribes, have now re-emerged from their hideout, ready to reclaim their land once and for all! \n\nWith the power of long forgotten technologies right at their fingertips, the Ancients now seek to take their revenge on the other tribes.",
   "tribes.ancients.info2": "\n\nThe Ancients start with the '???' tech and the ability to turn ruins into cities. However, they do not capture villages, instead raiding them for resources and units. \n\nThanks HighFlyer for the description",
   
   
@@ -828,7 +828,7 @@
   "technology.names.organization": "Organization",
   "technology.names.shields": "Strategy",
   "technology.names.diplomacy": "Diplomacy",
-  "technology.names.farming": "Farming",
+  "technology.names.farming": "Agriculture",
   "technology.names.construction": "Construction",
   "technology.names.fishing": "Fishing",
   "technology.names.whaling": "Whaling",
@@ -844,7 +844,7 @@
   "technology.names.meditation": "Meditation",
   "technology.names.philosophy": "Philosophy",
   "technology.names.mining": "Mining",
-  "technology.names.smithery": "Smithery",
+  "technology.names.smithery": "Metallurgy",
   "technology.names.riding2": "Free Swimming",
   "technology.names.freediving": "Free Diving",
   "technology.names.spearing": "Spearing",
@@ -853,7 +853,7 @@
   "technology.names.frostwork": "Frostwork",
   "technology.names.polarwarfare": "Polar Warfare",
   "technology.names.polarism": "Polarism",
-  "technology.names.hydrology": "Hydrology",
+  "technology.names.hydrology": "Phycology",
   "technology.names.oceanology": "Oceanology",
   "technology.names.recycling": "Decomposition",
   "technology.names.shock": "Shock Tactics",
@@ -870,7 +870,7 @@
   
   
   "action.info.attack": "make an attack with this unit. Select the unit and tap any of the RED targets if you want to attack",
-  "action.info.recover": "Recover",
+  "action.info.recover": "Rest",
   "action.info.healothers": "Heal Others",
   "action.info.train": "train a unit in this city. Units can be used to explore the world and to attack enemies and defend your cities",
   "action.info.move": "move this unit. Select the unit and tap any of the BLUE targets",
@@ -896,9 +896,9 @@
   "action.info.reward.resources": "That will give you an instant reward of {0} resources",
   "action.info.research": "research {0}.",
   "action.info.boost": "Boost",
-  "action.info.peacetreaty": "Offer Peace",
+  "action.info.peacetreaty": "Offer Peace Treaty",
   "action.info.establishembassy": "Establish Embassy",
-  "action.info.breakpeace": "Break Peace",
+  "action.info.breakpeace": "Break Peace Treaty",
   
   
   
@@ -928,7 +928,7 @@
   "endscreen.done": "DONE",
   "endscreen.ruledby": "Ruled by {0}",
   "endscreen.army&territory": "Army & Territory",
-  "endscreen.monuments&temples": "Monuments & temples",
+  "endscreen.monuments&temples": "Monuments & Temples",
   "endscreen.cities": "Cities",
   "endscreen.science": "Science",
   "endscreen.units": "{0} units, {1} tiles empire",
