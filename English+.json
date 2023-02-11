@@ -67,6 +67,17 @@
   "gamesettings.info.local": "{0} opponents, {1} tiles map",
   "gamesettings.info.turnlimit30": ", 30 turn limit",
   "gamesettings.info.difficulty.bonus": "Difficulty bonus: {0}%",
+
+  
+  "gamesettings.info.gamepreferences.header": "Advanced Settings",
+  "gamesettings.info.gamepreferences.info": "The more settings you apply, the longer it takes to find an opponent. If you want to quickly start a game, don't touch any of these.",
+  "gamesettings.info.matchmaking.gamemode": "{0} game",
+  "gamesettings.info.matchmaking.mappreset": "{0} map type",
+  "gamesettings.info.matchmaking.mapsize": "{0} tiles map",
+  "gamesettings.info.matchmaking.opponentcount": "{0} opponents",
+  "gamesettings.info.matchmaking.timelimit": "{0} time limit",
+  "gamesettings.info.seed": "Seed",
+
   "gamesettings.difficulty": "Difficulty",
   "gamesettings.difficulty.easy": "Easy",
   "gamesettings.difficulty.normal": "Normal",
@@ -78,7 +89,7 @@
   "gamesettings.createslot": "Creating game slot...",
   "gamesettings.createslot.error": "Error creating game",
   "gamesettings.createslot.error.info": "Make sure you are online and try again.",
-  "gamesettings.size": "",
+  "gamesettings.size": "Map Size",
   "gamesettings.size.tiny": "Very Small",
   "gamesettings.size.small": "Small",
   "gamesettings.size.normal": "Medium Small",
@@ -102,6 +113,26 @@
   "gamesettings.size.tiles": "{0} tile map.",
   "gamesettings.continue": "CONTINUE",
   "gamesettings.disableTribes": "Enable or Disable Tribes",
+
+  "gamesettings.autoskip": "Auto Skip",
+  "gamesettings.autoskip.disabled": "Disabled",
+  "gamesettings.autoskip.enabled": "Enabled",
+  "gamesettings.findmatch": "FIND GAME",
+  "gamesettings.loading": "LOADING",
+  "gamesettings.livegame": "Live Game",
+  "gamesettings.livegame.description": "Live Games use a dynamic timer where the time you have to play depends on your city and unit count. Any time you have left at the end of a turn is carried over to the next turn.",
+  "gamesettings.matchmaking.noedit": "Open for any type of game",
+  "gamesettings.notenoughplayers": "At least 2 players are required to start a game",
+  "gamesettings.novalidtribes": "No Valid Tribes",
+  "gamesettings.novalidtribes.info": "There are no valid tribes. Buy or enable at least one tribe to continue.",
+  "gamesettings.scorelimit": "Score Limit",
+  "gamesettings.size.tiles.unspecified": "The map can be of any size. Exciting!",
+  "gamesettings.timelimit": "Turn Time Limit",
+  "gamesettings.timer": "Game Timer",
+  "gamesettings.timer.description": "The time given to players to play their turn.\n\nIf a player runs out of time, the others can choose to skip their turn.",
+  "gamesettings.timer.live": "Live",
+  "gamesettings.unknown": "Unknown",
+  "gamesettings.unspecified": "Any",
 
   "gamemode.perfection.caps": "PERFECTION",
   "gamemode.perfection": "Perfection",
@@ -554,6 +585,10 @@
   "playerinfo.triberelations.unknown": "You've not met this tribe yet.",
   
   "playerinfopopup.you.description": "This is you. Go you!",
+  "playerinfopopup.bot.description": "This is a bot. Bzzt!",
+  "playerinfopopup.friend": "friend",
+  "playerinfopopup.passandplay.description": "This is a Pass & Play player.",
+  "playerinfopopup.waiting.description": "Waiting for a player to join.",
   
   
   
@@ -676,6 +711,7 @@
   
   "gameinfo.id": "id: {0}",
   "gameinfo.lastmove": "Last move: {0} ago",
+  "gameinfo.move": "Move: {0}",
   "gameinfo.updated": "updated: {0} ago",
   "gameinfo.turn": "Turn: {0}",
   "gameinfo.serverversion": "Server version: {0}",
@@ -1068,6 +1104,10 @@
   
   
   "onlineview.title": "MULTIPLAYER",
+  "onlineview.ongoing": "Ongoing",
+  "onlineview.replays": "Replays",
+  "onlineview.randommatch.start": "Play with a random opponent",
+  "onlineview.matchmaking": "QUICK GAME",
   "onlineview.loadingservice": "Loading Service",
   "onlineview.yourturn": "Your Turn",
   "onlineview.theirturn": "Their Turn",
@@ -1268,6 +1308,7 @@
   "mplayerstats.server": "Server version",
   "mplayerstats.lost": "Feeling lost? Check the:",
   "mplayerstats.appversion": "App version:",
+  "mplayerstats.gameversion": "Game version:",
   "mplayerstats.reloading": "Reloading..",
   "mplayerstats.uptodate": "Everything is up to date",
   "mplayerstats.loaderror": "Could not connect to the multiplayer server. Check your internet connection and try again.",
@@ -1320,5 +1361,5 @@
   "date.yesterday": "yesterday",
   
   "startmenu.quit": "QUIT",
-  "buttons.quit": "Quit",
+  "buttons.quit": "Quit"
 }
