@@ -1168,7 +1168,8 @@
   "onlineview.replay.delete.info": "Are you sure you want to delete this replay?",
   "onlineview.replay.delete.title": "Delete",
   "onlineview.replays.loading": "Loading replay data...",
-  "onlineview.uptodate.replays": "All replays up to date",
+  "onlineview.uptodate.replays": "All replays are up to date",
+  "onlineview.lastgames": "Last {0} Games",
   
   "replay.clipboard": "Replay link copied to clipboard",
   "replay.clipboard.title": "Voilà!",
@@ -1178,8 +1179,8 @@
   "replay.turnlabel": "Turn {0}",
   "replay.viewmode.auto": "Auto",
   "replay.viewmode.header": "Choose perspective",
-  "replay.viewmode.fog.off": "Disable Fog",
-  "replay.viewmode.fog.on": "Enable Fog",
+  "replay.viewmode.fog.off": "DISABLE FOG",
+  "replay.viewmode.fog.on": "ENABLE FOG",
   "replay.winner": "Winner: {0}",
 
   
