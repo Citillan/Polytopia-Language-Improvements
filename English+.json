@@ -706,6 +706,20 @@
   "buttons.exit": "EXIT",
   "buttons.save": "SAVE",
   "buttons.back": "BACK",
+  "buttons.signup": "SIGN UP",
+  "buttons.leave": "LEAVE",
+  "buttons.confirm": "CONFIRM",
+  
+  "buttons.accept": "ACCEPT",
+  "buttons.decline": "DECLINE",
+  "buttons.exitgame": "EXIT GAME",
+  "buttons.join": "JOIN",
+  "buttons.invite": "INVITE",
+  "buttons.reconnect": "RECONNECT",
+  "buttons.remove": "REMOVE",
+  "buttons.start": "START GAME",
+  "buttons.stay": "STAY",
+  "buttons.tryagain": "RETRY",
 
   
   
@@ -1192,6 +1206,27 @@
   "onlineview.tournament.info.state.value.closed": "Closed",
   "onlineview.tournament.state.confirm.in": "Waiting for confirmation period\n{0}",
   "onlineview.uptodate.tournaments": "All tournaments are up to date",
+
+  "onlineview.tournament.info.header": "Tournament info",
+  "onlineview.tournament.info.name": "Name",
+  "onlineview.tournament.info.format": "Format",
+  "onlineview.tournament.info.created": "Created on",
+  "onlineview.tournament.info.starttime": "Starts on",
+  "onlineview.tournament.info.contact": "Contact",
+  "onlineview.tournament.info.overview": "Tournament Overview",
+
+  "challengermode.connect.alreadyconnected": "You were on another platform last time you played Polytopia. Please reconnect to pick up where you left off.",
+  "challengermode.connect.button": "CONNECT",
+  "challengermode.buttons.reconnectaccount": "RECONNECT",
+  "challengermode.connect.description": "You need a Challengermode account to join tournaments.",
+  "challengermode.connect.header": "Connect to Challengermode",
+
+  "esport.verifyaccount.description": "You are about to connect your Polytopia account to Challengermode.",
+  "esport.verifyaccount.description.login": "You need to be logged in to verify your account",
+  "esport.verifyaccount.login": "Log in",
+  "esport.verifyaccount.service.cm": "Challengermode",
+  "esport.verifyaccount.success": "Account connected",
+  "esport.verifyaccount.title": "Verify account",
 
   "replay.clipboard": "Replay link copied to clipboard",
   "replay.clipboard.title": "Voilà!",
