@@ -162,11 +162,40 @@
   "gamemode.might": "Might",
   "gamemode.might.description": "Capture all capitals to win",
   "gamemode.might.win": "All capitals were captured",
-  "gamemode.tutorial": "Boot Camp",
   "gamemode.death": "Your last city was lost and your tribe conquered. you have been defeated.",
+  
+  "gamemode.tutorial": "Boot Camp",
+  "gamemode.tutorial.description": "Your tribe gifted you these resources. Use them wisely!",
 
+  "tutorial.task.harvestfruit.title": "Growing Your City",
+  "tutorial.task.harvestfruit": "Collect fruit to grow your city!",
+  "tutorial.task.harvestfruit.description": "Click on a tile within your borders that has a fruit on it and choose 'Harvest Fruit'. You can level up your cities by harvesting resources in your territory.",
+
+  "tutorial.task.trainunit.title": "Training Units",
+  "tutorial.task.trainunit": "Train a warrior so you can capture that village.",
+  "tutorial.task.trainunit.description": "Click on your city and choose the unit you want to train. Units can be used to explore the map, capture villages and fight against your opponents.",
+
+  "tutorial.task.endTurn.title": "Ending Your Turn",
+  "tutorial.task.endTurn": "That was a great first turn! Now, give your unit energy by ending your turn.",
+  "tutorial.task.endTurn.description": "Give your units energy and collect more starts by pressing the 'End Turn' button.",
+
+  "tutorial.task.capturevillage.title": "Moving A Unit",
+  "tutorial.task.capturevillage": "Move your unit to a village and capture it.",
+  "tutorial.task.capturevillage.description": "Click on your unit in the city. The blue markers on the map show the tiles you can move that unit to.\nAfter moving your unit, you need to end your turn to be able to move it again..",
+
+  "tutorial.task.unlockTech.title": "The Tech Tree",
+  "tutorial.task.unlockTech": "You can hunt wild animals to grow your city further. Let's research how to hunt!",
+  "tutorial.task.unlockTech.description": "Press the 'Tech Tree' button and choose the 'Hunting' tech. Now you can hunt animals to level up your cities!",
   
-  
+  "tutorial.completed.title": "Boot Camp Completed!",
+  "tutorial.completed.description": "Now you have the basic skills to play Polytopia, but there's still a lot to discover!\nFinish this game by getting the highest score you can before you run out of turns.",
+
+  "tutorial.suggestion.description": "Someone is hiding in the fog...",
+
+  "tutorial.task.meetTribe.title": "The Other Tribes",
+  "tutorial.task.meetTribe": "There's another tribe hiding somewhere in the Square. See if you can find them!",
+  "tutorial.task.meetTribe.description": "You are not alone! There are other tribes in this game, and they are also trying to expand their empire as much as they can. This often leads to conflicts, so keep an eye on your enemies.",
+
   "world.intro.title": "Mighty Leader!",
   "world.intro.text": "You have been chosen to rule the {0} tribe. Explore the world and expand your empire, but watch out for other tribes as they try to overrun yours.",
   "world.intro.objective": "Objective: {0}",
