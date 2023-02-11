@@ -1160,6 +1160,27 @@
   "onlineview.game.player.left": "{0} has left the game {1} and has been replaced by a bot.",
   "onlineview.game.player.kicked": "You have been removed from game {0}",
   "onlineview.game.player.invited": "You are invited to a new game, {0}",
+  
+  "onlineview.game.replays.share.button": "Share",
+  "onlineview.game.replays.share.description": "Use the following link to share this replay with anybody:",
+  "onlineview.game.replays.share.title": "Share this replay",
+  "onlineview.noreplays": "When you finish a multiplayer game, it will be added here so you can watch a replay of it.",
+  "onlineview.replay.delete.info": "Are you sure you want to delete this replay?",
+  "onlineview.replay.delete.title": "Delete",
+  "onlineview.replays.loading": "Loading replay data...",
+  "onlineview.uptodate.replays": "All replays up to date",
+  
+  "replay.clipboard": "Replay link copied to clipboard",
+  "replay.clipboard.title": "Voilà!",
+  "replay.ended": "Ended: {0}",
+  "replay.ongoing": "Ongoing",
+  "replay.tech.new.message": "{0} discovered the secret of {1}.",
+  "replay.turnlabel": "Turn {0}",
+  "replay.viewmode.auto": "Auto",
+  "replay.viewmode.header": "Choose perspective",
+  "replay.viewmode.fog.off": "Disable Fog",
+  "replay.viewmode.fog.on": "Enable Fog",
+  "replay.winner": "Winner: {0}",
 
   
   
