@@ -1151,6 +1151,7 @@
   "onlineview.replays": "Replays",
   "onlineview.randommatch.start": "Play with a random opponent",
   "onlineview.matchmaking": "QUICK GAME",
+  "onlineview.loading.title": "Loading...",
   "onlineview.loadingservice": "Loading Service",
   "onlineview.yourturn": "Your Turn",
   "onlineview.theirturn": "Their Turn",
