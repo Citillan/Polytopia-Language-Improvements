@@ -231,7 +231,7 @@
   "world.unit.evolve.title": "Unit Growth",
   "world.unit.dissolved": "Your unit has dissolved",
   
-  "world.building.info": "The city of {0}",
+  "world.building.info": "City",
   "world.building.village": "Village",
   "world.building.capture.ready": "Will be ready to capture next turn",
   "world.building.capture.ready.title": "Entering {0}!",
@@ -830,6 +830,8 @@
   "wcontroller.examine.tech.title": "Scrolls of Wisdom",
   "wcontroller.examine.stars": "The ancient ruins are filled with valuable resources!",
   "wcontroller.examine.stars.title": "Resources",
+  "wcontroller.examine.swordsman": "You encountered a veteran Swordsman who decides to join your tribe!",
+  "wcontroller.examine.swordsman.title": "Swordsman",
   "wcontroller.examine.population": "You meet a nomadic tribe that settle in your capital!",
   "wcontroller.examine.population.title": "Population",
   "wcontroller.move.unto.unit": "CANT MOVE ONTO ANOTHER UNIT",
@@ -953,9 +955,9 @@
   "action.info.healothers": "Heal Others",
   "action.info.train": "train a unit in this city. Units can be used to explore the world and to attack enemies and defend your cities",
   "action.info.move": "move this unit. Select the unit and tap any of the BLUE targets",
-  "action.info.capture": "capture",
+  "action.info.capture": "Capture",
   "action.info.capture2": "capture this city. Cities generate stars every turn that you can use to develop your empire",
-  "action.info.destroy": "destroy",
+  "action.info.destroy": "Destroy",
   "action.info.disband": "Disband {0}",
   "action.info.remove": "Remove",
   "action.info.cityreward": "City Reward",
@@ -979,7 +981,7 @@
   "action.info.establishembassy": "Establish Embassy",
   "action.info.breakpeace": "Break Peace Treaty",
   
-  
+  "destroy": "Destroy {0}",
   
   "actionbtn.upgrade": "Upgrade to {0}",
   "actionbtn.remove.building": "Building",
