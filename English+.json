@@ -630,7 +630,7 @@
   
   "actionbox.building.level": "level {0}/{1}",
   "actionbox.tile.roads": "roads",
-  "actionbox.city": "The city of {0}",
+  "actionbox.city": "City",
   "actionbox.city.level": "lvl {0}",
   "actionbox.village": "Village",
   
