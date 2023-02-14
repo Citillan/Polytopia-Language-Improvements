@@ -498,10 +498,10 @@
   
   
   
-  "player.abilities.destroy": "destroy",
-  "player.abilities.disband": "disband",
-  "player.abilities.literacy": "literacy",
-  "player.abilities.glide": "glide",
+  "player.abilities.destroy": "Destroy",
+  "player.abilities.disband": "Disband",
+  "player.abilities.literacy": "Literacy",
+  "player.abilities.glide": "Glide",
   "player.abilities.peacetreaty": "Peace Treaty",
   "player.abilities.embassy": "Embassy",
   "player.abilities.capitalvision": "Capital Vision",
@@ -981,7 +981,7 @@
   "action.info.establishembassy": "Establish Embassy",
   "action.info.breakpeace": "Break Peace Treaty",
   
-  "destroy": "Destroy {0}",
+  "destroy": "Destroy",
   
   "actionbtn.upgrade": "Upgrade to {0}",
   "actionbtn.remove.building": "Building",
