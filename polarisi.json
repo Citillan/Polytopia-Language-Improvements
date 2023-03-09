@@ -126,13 +126,13 @@
   "gamemode.might": "Might",
   "gamemode.might.description": "Capture all capitals to win",
   "gamemode.might.win": "All capitals were captured",
-  "gamemode.tutorial": "Isavinikanahintałilanisut",
+  "gamemode.tutorial": "Isavinikanahintanitini",
   "gamemode.death": "Your last city was lost and your tribe conquered. you have been defeated.",
 
   
   
   "world.intro.title": "Mighty Leader!",
-  "world.intro.text": "You have been chosen to rule the {0} tribe. Explore the world and expand your empire, but watch out for other tribes as they try to overrun your's.",
+  "world.intro.text": "{0}naqinnu mikanutłisuiq. Explore the world and expand your empire, but watch out for other tribes as they try to overrun your's.",
   "world.intro.objective": "Objective: {0}",
   
   "world.turn.end": "End Turn",
@@ -151,7 +151,7 @@
   "world.turn.last": "Last turn!",
   "world.turn.replaying": "Replaying...",
   
-  "world.unit.info.from": "{0}tulapalu.",
+  "world.unit.info.from": "{0}naq.",
   "world.unit.veteran": "This unit has the status of a Veteran. this unit has increased health.",
   "world.unit.veteran.progress": "{0}/{1} to become a veteran.",
   "world.unit.ability": "Unit Ability",
@@ -169,13 +169,13 @@
   "world.building.info": "{0}tula",
   "world.building.village": "Village",
   "world.building.capture.ready": "Will be ready to capture next turn",
-  "world.building.capture.ready.title": "{0}tulasiri!",
+  "world.building.capture.ready.title": "{0}siri!",
   "world.building.capture.warning": "your city will be captured next turn if you don't stop them.",
   "world.building.capture.warning.title": "{0}tula is under siege!",
   
   "world.attract.sanctuary": "Your sanctuary has attracted a wild animal!",
   "world.loading": "LOADING {0}%",
-  "world.suggestion.title": "Qiniq!",
+  "world.suggestion.title": "Qiniqnitini!",
   "world.suggestion.message": "You should {0}",
   "world.suggestion.disable": "(These suggestions can be switched off in the menu)",
   "world.ranks": "1º,2º,3º,4º,5º,6º,7º,8º,9º,10º,11º,12º,13º,14º,15º,16º",
@@ -259,8 +259,8 @@
   "tribes.cymanti.info2": "{0} starts the game with the '{1}' tech and the power to boost units and unleash crippling poisons.",
 
   "tribes.ancients": "Tenasagirati",
-  "tribes.ancients.info": "Ancients TBA",
-  "tribes.ancients.info2": "{0} starts the game with the '{1}' tech.",
+  "tribes.ancients.info": "Ancients TBA... \n\nDespite being supposedly defeated in a great polytopian civil war eons ago, the Ancients, ancestors of all tribes, have now re-emerged from their abyssal hideout, ready to reclaim the square once and for all! \n\nWith the power of long forgotten, advanced technologies right at their fingertips, the Ancients now seek to take their revenge on the other tribes.",
+  "tribes.ancients.info2": "\n\nThe Ancients start with the '???' tech and the ability to turn ruins into cities. However, they do not capture villages, instead raiding them for resources and units. \n\nThanks HighFlyer for the description",
   
   
   
@@ -269,15 +269,15 @@
   "TribeSkins/tribeskins.baerion": "Vasatarusa Nuutirinanaqiiatalujatasitivanisuju",
   "TribeSkins/tribeskins.baerion.description": "The Vasatarusa Nuutirinanaqiiatalujatasitivanisuju are the {0}'s elite hunters. Clad in the sanctified pelt of their first Baerion kill, they're ready for anything!",
   
-  "TribeSkins/tribeskins.ranger": "Iñivirik Juritavatiri",
+  "TribeSkins/tribeskins.ranger": "Iñivirik Jurutavatiri",
   "TribeSkins/tribeskins.ranger.description": "Bands of the {0}'s finest sharpshooters and survivalists, the Yorthwober know their way around combat just as well as they do the hills and forests.",
   
-  "TribeSkins/tribeskins.skeleton": "Veñihiri Vurisigurakisiruneneitivanisuju",
+  "TribeSkins/tribeskins.skeleton": "Veñihiri Vurisugurakisiruneneinisu",
   "TribeSkins/tribeskins.skeleton.description": "Fanatical {0} Cultists devoted to Burzgor shrug off their flesh in the harrowing Thdkrkr Ritual to show their dedication to revenge.",
   
   
   
-  "building.capital.owner": "{0}tulamita {1}mitaqquttana capital",
+  "building.capital.owner": "{0}tula {1}lukkuna lunasatasati naariutnitini",
   "building.capital.owner.former": "{0} is the former capital of the {1} empire, currently occupied by {2} forces",
   "building.city.owner": "{0} is a city in the {1} empire",
   "building.village.owner": "This is a village that doesn't belong to any tribe",
@@ -326,11 +326,11 @@
   "building.names.harvestfruit": "Gather Fruit",
   "building.names.farm": "Farm",
   "building.names.windmill": "Windmill",
-  "building.names.fishing": "Iqisaqaalujatasiłilanisut",
+  "building.names.fishing": "Iqisaqaalujatasitłisu",
   "building.names.whalehunting": "Whale Hunting",
   "building.names.watertemple": "Ocean Monument",
-  "building.names.port": "Alikalinarikalueva",
-  "building.names.hunting": "Alujatasiłilanisut",
+  "building.names.port": "Alikalinatłisutula",
+  "building.names.hunting": "Alujatasitłisu",
   "building.names.clearforest": "Clear forest",
   "building.names.lumberhut": "Lumber Hut",
   "building.names.sawmill": "Lumber Mill",
@@ -338,13 +338,13 @@
   "building.names.foresttemple": "Forest Altar",
   "building.names.mountaintemple": "Monistary",
   "building.names.icetemple": "Ice Temple",
-  "building.names.outpost": "Isurinurikalueva",
+  "building.names.outpost": "Isurinutłisutula",
   "building.names.mine": "Mine",
   "building.names.forge": "Forge",
   "building.names.sanctuary": "Sanctuary",
   "Building.names.enchantanimal": "Enchant Animal",
   "building.names.enchantwhale": "Enchant Whale",
-  "building.names.icebank": "Initiitulialikalinarikalueva",
+  "building.names.icebank": "Initiitulialikalinatłisutula",
   "building.names.spores": "Fungi Spores",
   "building.names.algae": "Algae",
   "building.names.fungi": "Fungi",
@@ -438,7 +438,7 @@
   
   "player.abilities.destroy": "destroy",
   "player.abilities.disband": "disband",
-  "player.abilities.literacy": "qiniqnitini",
+  "player.abilities.literacy": "isavininitini",
   "player.abilities.glide": "glide",
   "player.abilities.peacetreaty": "Peace Treaty",
   "player.abilities.embassy": "Embassy",
@@ -574,19 +574,19 @@
   "actionbox.unit.Invisible": "Invisible",
   "actionbox.unit.kills": "{0}/{1} kills",
   "actionbox.unit.veteran": "Veteran",
-  "actionbox.unit.new": "Isavinikanahintait {1}mita {0}nakkuna",
+  "actionbox.unit.new": " {1}mita {0}nakkuna isavinikanahintait",
   "actionbox.unit.ability": "Unit Ability",
-  "actionbox.unit.train": "Isavinikanahinta",
+  "actionbox.unit.train": "Isavinikanahintanitini",
   "actionbox.unit.upgrade": "Upgrade",
   "actionbox.unit.toomany": "(too many)",
   "actionbox.unit.toomany.info": "This city can't support any more units. Upgrade the city to get more space for units.",
   
-  "actionbox.building.doit": "CONFIRM",
+  "actionbox.building.doit": "Apavani",
   "actionbox.building.requiredtech": "You need to research {0} to do this, tap the 'Tech Tree' button.",
   "actionbox.building.techtree": "TECH TREE",
   "actionbox.insufficientfunds": "You don't have enough stars to buy this. Tap 'next turn' to get more stars.",
-  "actionbox.confirm": "Confirm {0}",
-  "actionbox.confirm.info": "Are you sure you want to do this?",
+  "actionbox.confirm": "{0} apavani",
+  "actionbox.confirm.info": "miturinuñiatiiq apavani?",
   "actionbox.confirm.button": "Apavani",
   
   
@@ -666,7 +666,7 @@
 
   
   
-  "buttons.ok": "APAVANI",
+  "buttons.ok": "apavani",
   "buttons.exit": "EXIT",
   "buttons.save": "SAVE",
   "buttons.back": "BACK",
@@ -735,8 +735,8 @@
   "wcontroller.capital.lost.description": "Your capital has been captured by the {0} hordes! All your trade connections are cancelled until you regain control of your capital",
   "wcontroller.capital.lost.title": "Eta Eta...",
   "wcontroller.capital.captured.description": "You have captured the {0} capital! All their trade connections are cancelled until they regain control of their capital",
-  "wcontroller.capital.captured.title": "Great news!",
-  "wcontroller.capital.captured2.description": "{0} is now part of the {1} empire",
+  "wcontroller.capital.captured.title": "Aleni!",
+  "wcontroller.capital.captured2.description": "{0}tula {1}lut nañiatiit",
   "wcontroller.capital.captured2.title": "City captured!",
   "wcontroller.kill.upgrade.description": "Unit is ready to upgrade!",
   "wcontroller.kill.upgrade.title": "Promote!",
@@ -858,8 +858,8 @@
   "techview.info.literacy": "Literacy reduce the price of all technologies by 33%.",
   "techview.locked": "(locked)",
   "techview.locked.info": "You must research {0} before you can learn {1}.",
-  "techview.completed": "(Researched)",
-  "techview.completed.info": "You have already researched this technology.",
+  "techview.completed": "(Isaviniñiatiariutnititni)",
+  "techview.completed.info": "Isaviniñiatiariutik",
   "techview.expensive.info": "You don't have enough stars to buy this. Tap 'next turn' to get more stars.",
   "techview.research": "RESEARCH",
 
@@ -1042,7 +1042,7 @@
   "settings.hideadvanced": "Hide Advanced Settings",
   "settings.language": "Language",
   "settings.restartlanguage": "Please restart Polytopia to fully switch language",
-  "settings.language.load.title":"tirumisaanitini innuit (BETA)",
+  "settings.language.load.title":"tirumisaanitini innuik (BETA)",
   "settings.language.load.info":"Load a Polytopia language file from a remote server using HTTPS. This is an experimental feature, not for the faint hearted.",
   "settings.language.load.input":"Language file url:",
   "settings.language.load.button": "LOAD",
@@ -1075,7 +1075,7 @@
   
   "consent.approval.title":"Welcome to Polytopia!",
   "consent.approval.info":"To improve Polytopia with usage statistics and to store your high scores and settings we need your approval to access to some personal data.\nYou can read more about what data we collect in our <u><a href='{0}'>privacy policy</a></u>.\n(You can revoke your approval at any time in the 'Throne Room')",
-  "consent.approve":"APAVANI",
+  "consent.approve":"apavani",
   "consent.deny":"DENY",
   "consent.enabled":"Personal Data Enabled",
   "consent.enabled.info":"You currently allow Polytopia to access some personal data to improve service and store your high scores etc. For more info, read our <u><a href='{0}'>privacy policy</a></u>.",
@@ -1299,7 +1299,7 @@
   "credits.platforms": "",
   "credits.learnmore1": "Want to know everything?",
   "credits.learnmore2": "Check the extensive Wikia database created by the Polytopia community:",
-  "credits.wiki": "POLYTOPIA WIKI",
+  "credits.wiki": "PALITUPIAKUNA VIKIASATI",
   "credits.polytopiamusic1": "Want to ",
   "credits.polytopiamusic2": "",
   "credits.music": "",
