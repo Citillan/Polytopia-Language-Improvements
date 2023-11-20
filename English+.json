@@ -67,6 +67,17 @@
   "gamesettings.info.local": "{0} opponents, {1} tiles map",
   "gamesettings.info.turnlimit30": ", 30 turn limit",
   "gamesettings.info.difficulty.bonus": "Difficulty bonus: {0}%",
+
+  
+  "gamesettings.info.gamepreferences.header": "Advanced Settings",
+  "gamesettings.info.gamepreferences.info": "The more settings you apply, the longer it takes to find an opponent. If you want to quickly start a game, don't touch any of these.",
+  "gamesettings.info.matchmaking.gamemode": "{0} game",
+  "gamesettings.info.matchmaking.mappreset": "{0} map type",
+  "gamesettings.info.matchmaking.mapsize": "{0} tiles map",
+  "gamesettings.info.matchmaking.opponentcount": "{0} opponents",
+  "gamesettings.info.matchmaking.timelimit": "{0} time limit",
+  "gamesettings.info.seed": "Seed",
+
   "gamesettings.difficulty": "Difficulty",
   "gamesettings.difficulty.easy": "Easy",
   "gamesettings.difficulty.normal": "Normal",
@@ -78,7 +89,7 @@
   "gamesettings.createslot": "Creating game slot...",
   "gamesettings.createslot.error": "Error creating game",
   "gamesettings.createslot.error.info": "Make sure you are online and try again.",
-  "gamesettings.size": "",
+  "gamesettings.size": "Map Size",
   "gamesettings.size.tiny": "Very Small",
   "gamesettings.size.small": "Small",
   "gamesettings.size.normal": "Medium Small",
@@ -103,6 +114,26 @@
   "gamesettings.continue": "CONTINUE",
   "gamesettings.disableTribes": "Enable or Disable Tribes",
 
+  "gamesettings.autoskip": "Auto Skip",
+  "gamesettings.autoskip.disabled": "Disabled",
+  "gamesettings.autoskip.enabled": "Enabled",
+  "gamesettings.findmatch": "FIND GAME",
+  "gamesettings.loading": "LOADING",
+  "gamesettings.livegame": "Live Game",
+  "gamesettings.livegame.description": "Live Games use a dynamic timer where the time you have to play depends on your city and unit count. Any time you have left at the end of a turn is carried over to the next turn.",
+  "gamesettings.matchmaking.noedit": "Open for any type of game",
+  "gamesettings.notenoughplayers": "At least 2 players are required to start a game",
+  "gamesettings.novalidtribes": "No Valid Tribes",
+  "gamesettings.novalidtribes.info": "There are no valid tribes. Buy or enable at least one tribe to continue.",
+  "gamesettings.scorelimit": "Score Limit",
+  "gamesettings.size.tiles.unspecified": "The map can be of any size. Exciting!",
+  "gamesettings.timelimit": "Turn Time Limit",
+  "gamesettings.timer": "Game Timer",
+  "gamesettings.timer.description": "The time given to players to play their turn.\n\nIf a player runs out of time, the others can choose to skip their turn.",
+  "gamesettings.timer.live": "Live",
+  "gamesettings.unknown": "Unknown",
+  "gamesettings.unspecified": "Any",
+
   "gamemode.perfection.caps": "PERFECTION",
   "gamemode.perfection": "Perfection",
   "gamemode.perfection.description.button": "Show your skills on the global leaderboards and attempt to score the highest in the classic 30 turn gamemode.",
@@ -116,7 +147,7 @@
   "gamemode.domination.win": "You have defeated all the other tribes and unified the tribes of the square!",
   "gamemode.domination.loss": "Your last city was lost and your tribe conquered. you have been defeated.",
   "gamemode.custom.caps": "CREATIVE",
-  "gamemode.custom": "creative",
+  "gamemode.custom": "Creative",
   "gamemode.custom.description.button": "Customize and set up the rules and the generation of the game and play however you like.",
   "gamemode.custom.description": "Play however you want in a realm of infinite possibilities.",
   "gamemode.custom.win": "You have defeated all the other tribes and unified the tribes of the square!",
@@ -131,11 +162,40 @@
   "gamemode.might": "Might",
   "gamemode.might.description": "Capture all capitals to win",
   "gamemode.might.win": "All capitals were captured",
-  "gamemode.tutorial": "Boot Camp",
   "gamemode.death": "Your last city was lost and your tribe conquered. you have been defeated.",
+  
+  "gamemode.tutorial": "Boot Camp",
+  "gamemode.tutorial.description": "Your tribe gifted you these resources. Use them wisely!",
 
+  "tutorial.task.harvestfruit.title": "Growing Your City",
+  "tutorial.task.harvestfruit": "Collect fruit to grow your city!",
+  "tutorial.task.harvestfruit.description": "Click on a tile within your borders that has a fruit on it and choose 'Harvest Fruit'. You can level up your cities by harvesting resources in your territory.",
+
+  "tutorial.task.trainunit.title": "Training Units",
+  "tutorial.task.trainunit": "Train a warrior so you can capture that village.",
+  "tutorial.task.trainunit.description": "Click on your city and choose the unit you want to train. Units can be used to explore the map, capture villages and fight against your opponents.",
+
+  "tutorial.task.endTurn.title": "Ending Your Turn",
+  "tutorial.task.endTurn": "That was a great first turn! Now, give your unit energy by ending your turn.",
+  "tutorial.task.endTurn.description": "Give your units energy and collect more starts by pressing the 'End Turn' button.",
+
+  "tutorial.task.capturevillage.title": "Moving A Unit",
+  "tutorial.task.capturevillage": "Move your unit to a village and capture it.",
+  "tutorial.task.capturevillage.description": "Click on your unit in the city. The blue markers on the map show the tiles you can move that unit to.\nAfter moving your unit, you need to end your turn to be able to move it again..",
+
+  "tutorial.task.unlockTech.title": "The Tech Tree",
+  "tutorial.task.unlockTech": "You can hunt wild animals to grow your city further. Let's research how to hunt!",
+  "tutorial.task.unlockTech.description": "Press the 'Tech Tree' button and choose the 'Hunting' tech. Now you can hunt animals to level up your cities!",
   
-  
+  "tutorial.completed.title": "Boot Camp Completed!",
+  "tutorial.completed.description": "Now you have the basic skills to play Polytopia, but there's still a lot to discover!\nFinish this game by getting the highest score you can before you run out of turns.",
+
+  "tutorial.suggestion.description": "Someone is hiding in the fog...",
+
+  "tutorial.task.meetTribe.title": "The Other Tribes",
+  "tutorial.task.meetTribe": "There's another tribe hiding somewhere in the Square. See if you can find them!",
+  "tutorial.task.meetTribe.description": "You are not alone! There are other tribes in this game, and they are also trying to expand their empire as much as they can. This often leads to conflicts, so keep an eye on your enemies.",
+
   "world.intro.title": "Mighty Leader!",
   "world.intro.text": "You have been chosen to rule the {0} tribe. Explore the world and expand your empire, but watch out for other tribes as they try to overrun yours.",
   "world.intro.objective": "Objective: {0}",
@@ -171,7 +231,7 @@
   "world.unit.evolve.title": "Unit Growth",
   "world.unit.dissolved": "Your unit has dissolved",
   
-  "world.building.info": "The city of {0}",
+  "world.building.info": "City",
   "world.building.village": "Village",
   "world.building.capture.ready": "Will be ready to capture next turn",
   "world.building.capture.ready.title": "Entering {0}!",
@@ -438,10 +498,10 @@
   
   
   
-  "player.abilities.destroy": "destroy",
-  "player.abilities.disband": "disband",
-  "player.abilities.literacy": "literacy",
-  "player.abilities.glide": "glide",
+  "player.abilities.destroy": "Destroy",
+  "player.abilities.disband": "Disband",
+  "player.abilities.literacy": "Literacy",
+  "player.abilities.glide": "Glide",
   "player.abilities.peacetreaty": "Peace Treaty",
   "player.abilities.embassy": "Embassy",
   "player.abilities.capitalvision": "Capital Vision",
@@ -554,6 +614,10 @@
   "playerinfo.triberelations.unknown": "You've not met this tribe yet.",
   
   "playerinfopopup.you.description": "This is you. Go you!",
+  "playerinfopopup.bot.description": "This is a bot. Bzzt!",
+  "playerinfopopup.friend": "friend",
+  "playerinfopopup.passandplay.description": "This is a Pass & Play player.",
+  "playerinfopopup.waiting.description": "Waiting for a player to join.",
   
   
   
@@ -566,7 +630,7 @@
   
   "actionbox.building.level": "level {0}/{1}",
   "actionbox.tile.roads": "roads",
-  "actionbox.city": "The city of {0}",
+  "actionbox.city": "City",
   "actionbox.city.level": "lvl {0}",
   "actionbox.village": "Village",
   
@@ -671,11 +735,26 @@
   "buttons.exit": "EXIT",
   "buttons.save": "SAVE",
   "buttons.back": "BACK",
+  "buttons.signup": "SIGN UP",
+  "buttons.leave": "LEAVE",
+  "buttons.confirm": "CONFIRM",
+  
+  "buttons.accept": "ACCEPT",
+  "buttons.decline": "DECLINE",
+  "buttons.exitgame": "EXIT GAME",
+  "buttons.join": "JOIN",
+  "buttons.invite": "INVITE",
+  "buttons.reconnect": "RECONNECT",
+  "buttons.remove": "REMOVE",
+  "buttons.start": "START GAME",
+  "buttons.stay": "STAY",
+  "buttons.tryagain": "RETRY",
 
   
   
   "gameinfo.id": "id: {0}",
   "gameinfo.lastmove": "Last move: {0} ago",
+  "gameinfo.move": "Move: {0}",
   "gameinfo.updated": "updated: {0} ago",
   "gameinfo.turn": "Turn: {0}",
   "gameinfo.serverversion": "Server version: {0}",
@@ -751,6 +830,8 @@
   "wcontroller.examine.tech.title": "Scrolls of Wisdom",
   "wcontroller.examine.stars": "The ancient ruins are filled with valuable resources!",
   "wcontroller.examine.stars.title": "Resources",
+  "wcontroller.examine.swordsman": "You encountered a veteran Swordsman who decides to join your tribe!",
+  "wcontroller.examine.swordsman.title": "Swordsman",
   "wcontroller.examine.population": "You meet a nomadic tribe that settle in your capital!",
   "wcontroller.examine.population.title": "Population",
   "wcontroller.move.unto.unit": "CANT MOVE ONTO ANOTHER UNIT",
@@ -874,9 +955,9 @@
   "action.info.healothers": "Heal Others",
   "action.info.train": "train a unit in this city. Units can be used to explore the world and to attack enemies and defend your cities",
   "action.info.move": "move this unit. Select the unit and tap any of the BLUE targets",
-  "action.info.capture": "capture",
+  "action.info.capture": "Capture",
   "action.info.capture2": "capture this city. Cities generate stars every turn that you can use to develop your empire",
-  "action.info.destroy": "destroy",
+  "action.info.destroy": "Destroy",
   "action.info.disband": "Disband {0}",
   "action.info.remove": "Remove",
   "action.info.cityreward": "City Reward",
@@ -900,7 +981,7 @@
   "action.info.establishembassy": "Establish Embassy",
   "action.info.breakpeace": "Break Peace Treaty",
   
-  
+  "destroy": "Destroy",
   
   "actionbtn.upgrade": "Upgrade to {0}",
   "actionbtn.remove.building": "Building",
@@ -1068,6 +1149,11 @@
   
   
   "onlineview.title": "MULTIPLAYER",
+  "onlineview.ongoing": "Ongoing",
+  "onlineview.replays": "Replays",
+  "onlineview.randommatch.start": "Play with a random opponent",
+  "onlineview.matchmaking": "QUICK GAME",
+  "onlineview.loading.title": "Loading...",
   "onlineview.loadingservice": "Loading Service",
   "onlineview.yourturn": "Your Turn",
   "onlineview.theirturn": "Their Turn",
@@ -1120,6 +1206,71 @@
   "onlineview.game.player.left": "{0} has left the game {1} and has been replaced by a bot.",
   "onlineview.game.player.kicked": "You have been removed from game {0}",
   "onlineview.game.player.invited": "You are invited to a new game, {0}",
+  
+  "onlineview.game.replays.share.button": "Share",
+  "onlineview.game.replays.share.description": "Use the following link to share this replay with anybody:",
+  "onlineview.game.replays.share.title": "Share this replay",
+  "onlineview.noreplays": "When you finish a multiplayer game, it will be added here so you can watch a replay of it.",
+  "onlineview.replay.delete.info": "Are you sure you want to delete this replay?",
+  "onlineview.replay.delete.title": "Delete",
+  "onlineview.replays.loading": "Loading replay data...",
+  "onlineview.uptodate.replays": "All replays are up to date",
+  "onlineview.lastgames": "Last {0} Games",
+  
+
+  "onlineview.tournaments": "Tournaments",
+  "onlineview.tournaments.title": "TOURNAMENTS",
+  "onlineview.tournamentlist.available": "Tournaments are only available when connected to the server.",
+  "onlineview.tournaments.available": "Available Tournaments",
+  "onlineview.tournaments.joined": "Joined Tournaments",
+  "onlineview.tournaments.info.header": "Challengermode",
+  "onlineview.tournaments.loading": "Loading tournaments...",
+  "onlineview.tournament.info.time.left": "{0} left",
+  "onlineview.tournament.info.registered": "registered",
+  "onlineview.tournament.info.slots": "Slots",
+  "onlineview.tournaments.info.description.faq": "Feeling lost? Check out:",
+  "onlineview.tournaments.info.description.faq.button": "Tournaments FAQ",
+  "onlineview.tournament.info.state": "State",
+  "onlineview.tournament.info.state.description": "This tournament is currently {0}.",
+  "onlineview.tournament.info.players": "player",
+  "onlineview.tournament.info.players.description": "{0} people have registered to this tournament.\n\nPlayers need to confirm their entry to participate in the tournament. There are {1} slots in this tournament - first come, first served!",
+  "onlineview.tournament.info.state.value.open": "Open",
+  "onlineview.tournament.info.state.value.closed": "Closed",
+  "onlineview.tournament.state.confirm.in": "Waiting for confirmation period\n{0}",
+  "onlineview.uptodate.tournaments": "All tournaments are up to date",
+
+  "onlineview.tournament.info.header": "Tournament info",
+  "onlineview.tournament.info.name": "Name",
+  "onlineview.tournament.info.format": "Format",
+  "onlineview.tournament.info.created": "Created on",
+  "onlineview.tournament.info.starttime": "Starts on",
+  "onlineview.tournament.info.contact": "Contact",
+  "onlineview.tournament.info.overview": "Tournament Overview",
+
+  "challengermode.connect.alreadyconnected": "You were on another platform last time you played Polytopia. Please reconnect to pick up where you left off.",
+  "challengermode.connect.button": "CONNECT",
+  "challengermode.buttons.reconnectaccount": "RECONNECT",
+  "challengermode.connect.description": "You need a Challengermode account to join tournaments.",
+  "challengermode.connect.header": "Connect to Challengermode",
+
+  "esport.verifyaccount.description": "You are about to connect your Polytopia account to Challengermode.",
+  "esport.verifyaccount.description.login": "You need to be logged in to verify your account",
+  "esport.verifyaccount.login": "Log in",
+  "esport.verifyaccount.service.cm": "Challengermode",
+  "esport.verifyaccount.success": "Account connected",
+  "esport.verifyaccount.title": "Verify account",
+
+  "replay.clipboard": "Replay link copied to clipboard",
+  "replay.clipboard.title": "Voilà!",
+  "replay.ended": "Ended: {0}",
+  "replay.ongoing": "Ongoing",
+  "replay.tech.new.message": "{0} discovered the secret of {1}.",
+  "replay.turnlabel": "Turn {0}",
+  "replay.viewmode.auto": "Auto",
+  "replay.viewmode.header": "Choose perspective",
+  "replay.viewmode.fog.off": "DISABLE FOG",
+  "replay.viewmode.fog.on": "ENABLE FOG",
+  "replay.winner": "Winner: {0}",
 
   
   
@@ -1268,8 +1419,10 @@
   "mplayerstats.server": "Server version",
   "mplayerstats.lost": "Feeling lost? Check the:",
   "mplayerstats.appversion": "App version:",
+  "mplayerstats.gameversion": "Game version:",
   "mplayerstats.reloading": "Reloading..",
   "mplayerstats.uptodate": "Everything is up to date",
+  "mplayerstats.elo": "Elo",
   "mplayerstats.loaderror": "Could not connect to the multiplayer server. Check your internet connection and try again.",
 
   
@@ -1320,5 +1473,5 @@
   "date.yesterday": "yesterday",
   
   "startmenu.quit": "QUIT",
-  "buttons.quit": "Quit",
+  "buttons.quit": "Quit"
 }
