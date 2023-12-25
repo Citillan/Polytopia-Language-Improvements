@@ -263,7 +263,7 @@
   "tribes.xinxi.info2": "{0} starts the game with the '{1}' tech.",
   
   "tribes.imperius": "Imperius",
-  "tribes.imperius.info": "The land of Imperia with its many huge mountains, green valleys, and mild climate, has been the home of the {0}, ready to expand their empire beyond the horizon.",
+  "tribes.imperius.info": "The land of Imperia with its many huge mountains, green valleys, and mild climate, has been the home of the {0}, ready to expand the borders of their empire beyond the horizon.",
   "tribes.imperius.info2": "{0} starts the game with the '{1}' tech.",
   
   "tribes.bardur": "Bardur",
@@ -283,11 +283,11 @@
   "tribes.hoodrick.info2": "{0} starts the game with an archer and the '{1}' tech.",
   
   "tribes.luxidoor": "Luxidoor",
-  "tribes.luxidoor.info": "The {0} love expensive things, jewels, rare spices and exclusive ornaments. That is also why they are the most expensive tribe in Polytopia!\n\nLuxidoorian citizens lead very comfortable lives, draped in the finest purple silk. But will they survive outside of their beloved capital?",
+  "tribes.luxidoor.info": "The {0} love expensive things, jewels, rare spices and exclusive ornaments. That is also why they are the most expensive tribe in Polytopia!\n\nLuxidoorian citizens libe very comfortable lives, draped in the finest purple silk. But will they survive outside of walls their beloved capital?",
   "tribes.luxidoor.info2": "{0} starts the game with a large capital.",
   
   "tribes.vengir": "Vengir",
-  "tribes.vengir.info": "Frowned upon by the other tribes and being pushed into the unpleasant wastelands. the {0} has over time, adapted to the harsh realities of their lives. Will they tolerate this injustice or rise up and fight back seeking revenge?",
+  "tribes.vengir.info": "Frowned upon by the other tribes and being pushed into the unpleasant wastelands. the {0} has over time, have adapted to the harsh realities of their lives. Will they ever tolerate this injustice or rise up and fight back seeking revenge?",
   "tribes.vengir.info2": "{0} starts the game with a swordsman and the '{1}' tech.",
   
   "tribes.zebasi": "Zebasi",
@@ -304,12 +304,12 @@
   "tribes.quetzali.info2": "{0} starts the game with the '{1}' tech.",
   
   "tribes.yadakk": "Yădakk",
-  "tribes.yadakk.info": "The {0} started out as a nomadic tribe in the beautiful Khalee plains. Now that they managed to settle, they have now become are the traders of the square, connecting their empire with impressive trade routes.",
+  "tribes.yadakk.info": "The {0} started out as a nomadic tribe in the harsh but beautiful Khalee plains. Now that they've managed to settle, they have now become are the traders of the square, connecting their empire with impressive trade routes.",
   "tribes.yadakk.info2": "{0} starts the game with the '{1}' tech.",
   
   "tribes.aquarion": "Aquarion",
   "tribes.aquarion.info": "From the depths beneath oceans, the long lost {0} civilization arises from the crashing waves below, towering into the clear skies above!\n\nTheir extreme isolation has given them special aquatic abilities that are unknown to the other more human tribes and has allowed them to befriend the local marine life.",
-  "tribes.aquarion.info2": "{0} starts the game with access to the '{1}' tech and unique amphibious units that no other tribe can train.",
+  "tribes.aquarion.info2": "{0} starts the game with access to the '{1}' tech, an amphibian, and unique marine units that no other tribe can train.",
   
   "tribes.elyrion": "Elyrion",
   "tribes.elyrion.info": "The mysterious {0} defend their woodland homes with colorful magic and the ferocity of fire-breathing dragons! \n\nThey regard Nature as a holy spirit and cannot hunt animals or chop down trees.",
@@ -321,11 +321,11 @@
  
   "tribes.cymanti": "Cymanti",
   "tribes.cymanti.info": "The {0} are a breakout group of Polytopians who moved into the unknown and learned to live with the Ciru Bug, which attaches to their faces and merges with their brains. \n\nLed by their Shaman, the {0} train gigantic bugs and use their enemies to fertilize their fungi farms, with the goal to vanquish all who would threaten their marshy home!",
-  "tribes.cymanti.info2": "{0} starts the game with the '{1}' tech and the ability to unleash crippling poisons.",
+  "tribes.cymanti.info2": "{0} starts the game with the '{1}' tech and the ability to wield the might of terrifying arthropods.",
 
-  "tribes.ancients": "Ancient Polytopians",
-  "tribes.ancients.info": "Ancients TBA... \n\nDespite being supposedly defeated in a great polytopian civil war eons ago, the Ancients, ancestors of all tribes, have now re-emerged from their hideout, ready to reclaim the square once and for all! \n\nWith the power of long forgotten, advanced technologies right at their fingertips, the Ancients now seek to take their revenge on the other tribes.",
-  "tribes.ancients.info2": "The Ancients start with the '???' tech and the ability to turn ruins into cities. However, they do not capture villages, instead raiding them for resources and units. \n\nThanks HighFlyer for the description",
+  "tribes.ancients": "The Ancients",
+  "tribes.ancients.info": "Despite being supposedly defeated in a great polytopian civil war eons ago, the Ancients, ancestors of all tribes, have now re-emerged from their hideout, ready to reclaim the square once and for all! \n\nWith the knowledge of long forgotten, advanced technologies right at their fingertips, the Ancients now seek the restoration of ruins of their civilization and complete annihilation against the then upstart tribes.",
+  "tribes.ancients.info2": "The Ancients start with the '{1}' tech and armed with highly advanced technology that has been lost to time. \n\nThanks HighFlyer for help with the description",
   
   
   "TribeSkins/skinName": "{0} skin",
@@ -359,7 +359,7 @@
   "building.resource": "adds a {0} at the selected tile",
   "building.value": "is worth {0} points of score",
   
-  "building.ability.embark": "Units that move here will turn into boats that can move on water.",
+  "building.ability.embark": "Units that move here will turn into rafts that can move on water.",
   "building.ability.route": "It creates trade routes through {0} to any other {1} within a 5 tiles radius.",
   "building.ability.route.and": " and ",
   "building.ability.road": "Build roads to connect cities with the capital. Connected cities get 1 population as a reward. Roads also give a movement bonus for all units on it.",
@@ -375,12 +375,12 @@
   "building.names.city": "City",
   "building.names.ruin": "Ruin",
   "building.names.monument1": "Altar of Peace",
-  "building.names.monument2": "Tower of wisdom",
-  "building.names.monument3": "Grand Bazaar",
+  "building.names.monument2": "Tower of Wisdom",
+  "building.names.monument3": "Bazaar of Prosperity",
   "building.names.monument4": "Emperors Tomb",
   "building.names.monument5": "Gate of Power",
   "building.names.monument6": "Park of Fortune",
-  "building.names.monument7": "Eye of God",
+  "building.names.monument7": "Eye of Ancestors",
   "building.names.temple": "Temple",
   "building.names.burnforest": "Burn Forest",
   "building.names.road": "Road",
@@ -389,7 +389,7 @@
   "building.names.farm": "Farm",
   "building.names.windmill": "Windmill",
   "building.names.fishing": "Fishing",
-  "building.names.whalehunting": "Whale Hunting",
+  "building.names.whalehunting": "Whaling",
   "building.names.watertemple": "Ocean Monument",
   "building.names.port": "Port",
   "building.names.hunting": "Hunting",
@@ -501,7 +501,7 @@
   "player.abilities.destroy": "Destroy",
   "player.abilities.disband": "Disband",
   "player.abilities.literacy": "Literacy",
-  "player.abilities.glide": "Glide",
+  "player.abilities.glide": "Glacial Touch",
   "player.abilities.peacetreaty": "Peace Treaty",
   "player.abilities.embassy": "Embassy",
   "player.abilities.capitalvision": "Capital Vision",
@@ -774,10 +774,13 @@
   
   
   "polyplayer.task": "tasks",
+
   "polyplayer.task.explorer.title": "Explorer",
   "polyplayer.task.explorer.description": "Explore every single tile in this square world",
+
   "polyplayer.task.war.title": "No mercy",
   "polyplayer.task.war.description": "Wipe out an enemy",
+
   "polyplayer.task.pacifist.title": "Pacifist",
   "polyplayer.task.pacifist.description": "Make no attacks for 5 turns",
   "polyplayer.task.killer.title": "Killer",
@@ -1429,7 +1432,7 @@
   
   "credits.title": "ABOUT",
   "credits.subtitle": "Indie Delight",
-  "credits.midjiwan": "The Battle of Polytopia is constantly being created by Midjiwan, a tiny indie game studio in Stockholm, Sweden.\n\n This custom language was made by Citillan, a Polytopian Linguist and the Creator of the Polarisi Language.\n\n Check out their work at https://github.com/Citillan/.",
+  "credits.midjiwan": "The Battle of Polytopia is constantly being created by Midjiwan, a tiny indie game studio in Stockholm, Sweden.\n\n This custom language was made by Citillan, a Polytopian Linguist and the Creator of the Polarisian Language.\n\n Check out their work at https://github.com/Citillan/.",
   "credits.followus": "Follow Us",
   "credits.platforms": "",
   "credits.learnmore1": "Want to know everything?",
