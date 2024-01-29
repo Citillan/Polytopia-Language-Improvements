@@ -951,14 +951,14 @@
   "technology.names.watermagic": "Water Magic",
   "technology.names.frostwork": "Frostwork",
   "technology.names.polarwarfare": "Polar Warfare",
-  "technology.names.icefishing": "basic",
-  "technology.names.sledding": "basic",
+  "technology.names.icefishing": "Ice Fishing",
+  "technology.names.sledding": "Sledding",
   "technology.names.polarism": "Polarism",
   "technology.names.hydrology": "Phycology",
   "technology.names.oceanology": "Oceanology",
   "technology.names.recycling": "Decomposition",
   "technology.names.shock": "Shock Tactics",
-  "technology.names.pescetism": "basic",
+  "technology.names.pescetism": "pescetism",
   
   "techview.info": "Tech costs increase for each city in your empire. Research a tech to unlock the Abilities, Units, and Skills it offers.",
   "techview.info.literacy": "Literacy reduce the price of all technologies by 33%.",
@@ -1500,4 +1500,9 @@
   
   "startmenu.quit": "QUIT",
   "buttons.quit": "Quit"
+
+
+
+  "unit.names.blind": "Armored Blind",
+  "unit.names.iceship": "Umiaq",
 }
