@@ -11,7 +11,7 @@
   "news.title": "POLYTOPIA NEWS",
   "news.description": "Welcome!\n This is where we share the latest news from the Polytopia universe. Stay tuned!",
   "news.timeago": "{0} ago",
-  "gamemodepicker.title": "GAME MODE",
+  "gamemodepicker.title": "GAMEMODE",
 
   
   
@@ -99,7 +99,8 @@
   "gamesettings.map": "Map Composition",
   "gamesettings.map.dryland": "Plains",
   "gamesettings.map.lakes": "Lakes",
-  "gamesettings.map.continents": "Continents",
+  "gamesettings.map.pangea": "Pangea",
+  "gamesettings.map.continents": "Riverlands",
   "gamesettings.map.archipelago": "Archipelago",
   "gamesettings.map.waterworld": "Islands",
   "gamesettings.size.disabled": "Not Available",
@@ -259,11 +260,11 @@
   "tribes.nature": "Nature",
   
   "tribes.xinxi": "Xin-xi",
-  "tribes.xinxi.info": "The {0} start off in the dense mountains, surrounded by beautiful Xini blossom trees.",
+  "tribes.xinxi.info": "The {0} start off in the dense mountains, surrounded by beautiful xini blossom trees.",
   "tribes.xinxi.info2": "{0} starts the game with the '{1}' tech.",
   
   "tribes.imperius": "Imperius",
-  "tribes.imperius.info": "The land of Imperia with its many huge mountains, green valleys, and mild climate, has been the home of the {0}, ready to expand the borders of their empire beyond the horizon.",
+  "tribes.imperius.info": "The land of Imperia with its many huge mountains, green valleys, and mild climate, has been the home of the {0}. They are ready to expand the borders of their empire beyond the horizon.",
   "tribes.imperius.info2": "{0} starts the game with the '{1}' tech.",
   
   "tribes.bardur": "Bardur",
@@ -287,11 +288,11 @@
   "tribes.luxidoor.info2": "{0} starts the game with a large capital.",
   
   "tribes.vengir": "Vengir",
-  "tribes.vengir.info": "Frowned upon by the other tribes and being pushed into the unpleasant wastelands. the {0} has over time, have adapted to the harsh realities of their lives. Will they ever tolerate this injustice or rise up and fight back seeking revenge?",
+  "tribes.vengir.info": "Frowned upon by the other tribes and pushed into the unpleasant wastelands. The {0} over time, have adapted to the harsh realities of their lives. Will they ever tolerate this injustice or rise up and fight back seeking revenge?",
   "tribes.vengir.info2": "{0} starts the game with a swordsman and the '{1}' tech.",
   
   "tribes.zebasi": "Zebasi",
-  "tribes.zebasi.info": "The {0} have thrived living on the warm savannah, cultivating the rich soil to provide food for their mighty population.",
+  "tribes.zebasi.info": "The {0} have long thrived living on the warm savannah, cultivating the rich soil to provide an abundance of food for their mighty population.",
   "tribes.zebasi.info2": "{0} starts the game with the '{1}' tech.",
   "tribes.zebasi.news": "All profits from the Zebasi tribe is invested in solar energy projects.",
   
@@ -300,7 +301,7 @@
   "tribes.aimo.info2": "{0} starts the game with the '{1}' tech.",
   
   "tribes.quetzali": "Quetzali",
-  "tribes.quetzali.info": "The {0} tribe worship the birb gods of the red soil and live in harmony with the natural symmetry of their cubistic jungles. They are commonly seen riding huge flightless birds.",
+  "tribes.quetzali.info": "The {0} tribe worship the birb gods of the red soil and live in harmony with the natural symmetry of their cubistic jungles. They are commonly seen riding huge, flightless quiqui birds.",
   "tribes.quetzali.info2": "{0} starts the game with the '{1}' tech.",
   
   "tribes.yadakk": "Yădakk",
@@ -376,8 +377,8 @@
   "building.names.ruin": "Ruin",
   "building.names.monument1": "Altar of Peace",
   "building.names.monument2": "Tower of Wisdom",
-  "building.names.monument3": "Bazaar of Prosperity",
-  "building.names.monument4": "Emperors Tomb",
+  "building.names.monument3": "Grand Bazaar",
+  "building.names.monument4": "Emperor's Tomb",
   "building.names.monument5": "Gate of Power",
   "building.names.monument6": "Park of Fortune",
   "building.names.monument7": "Eye of Ancestors",
@@ -385,10 +386,12 @@
   "building.names.burnforest": "Burn Forest",
   "building.names.road": "Road",
   "building.names.customshouse": "Market",
+  "building.names.market": "Market",
   "building.names.harvestfruit": "Gather Fruit",
   "building.names.farm": "Farm",
   "building.names.windmill": "Windmill",
   "building.names.fishing": "Fishing",
+  "building.names.aquafarm": "Aquafarm",
   "building.names.whalehunting": "Whaling",
   "building.names.watertemple": "Ocean Monument",
   "building.names.port": "Port",
@@ -425,6 +428,7 @@
   "unit.info.skills": "Skills",
   
   "unit.names.giant": "Giant",
+  "unit.names.juggernaut": "juggernaut",
   "unit.names.crab": "Crab",
   "unit.names.gaami": "Gaami",
   "unit.names.bunny": "Nature Bunny",
@@ -438,6 +442,11 @@
   "unit.names.battleship": "Battleship",
   "unit.names.catapult": "Catapult",
   "unit.names.archer": "Archer",
+  "unit.names.ship": "Ship",
+  "unit.names.transportship": "Raft",
+  "unit.names.rammership": "Ironclad",
+  "unit.names.scoutship": "Cruiser",
+  "unit.names.bombership": "Bomber",
   "unit.names.mindbender": "Mind Bender",
   "unit.names.swordsman": "Swordsman",
   "unit.names.amphibian": "Amphibian",
@@ -459,7 +468,7 @@
   "unit.names.phychi": "Phychi",
   "unit.names.exida": "Exida",
   "unit.names.centipede": "Centipede",
-  "unit.names.segment": "Centipede",
+  "unit.names.segment": "Centipede Segment",
   "unit.names.cloak": "Agent",
   "unit.names.dagger": "Rebel",
   
@@ -495,6 +504,8 @@
   "unit.abilities.hide": "Hide",
   "unit.abilities.infiltrate": "Infiltrate",
   "unit.abilities.detect": "Detect",
+  "unit.abilities.stiff": "stiff",
+  "unit.abilities.stomp": "crush",
   
   
   
@@ -729,6 +740,8 @@
   "tooltip.ability.peacetreaty": "You can offer peace to tribes you've met. \nThis feature is found in the \"Tribe Info Screen\" accessed by clicking the name of a tribe.",
   "tooltip.ability.embassy": "Allows embassies to be built in the capitals of other tribes. Embassies provide an income in stars to both sides. This income is doubled if you are at peace with them.",
   "tooltip.ability.capitalvision": "Reveals the capital locations of every tribe you've met.",
+  "tooltip.abilities.stiff": "Unit cannot retaliate.",
+  "tooltip.abilities.stomp": "Unit damages other units when moving.",
   
   
   "buttons.ok": "OK",
@@ -915,6 +928,7 @@
   "technology.names.farming": "Agriculture",
   "technology.names.construction": "Construction",
   "technology.names.fishing": "Fishing",
+  "technology.names.simplefishing": "Fishing",
   "technology.names.whaling": "Whaling",
   "technology.names.aquatism": "Aquatism",
   "technology.names.sailing": "Sailing",
@@ -929,6 +943,7 @@
   "technology.names.philosophy": "Philosophy",
   "technology.names.mining": "Mining",
   "technology.names.smithery": "Metallurgy",
+  "technology.names.aquaculture": "Aquaculture",
   "technology.names.riding2": "Free Swimming",
   "technology.names.freediving": "Free Diving",
   "technology.names.spearing": "Spearing",
@@ -936,11 +951,14 @@
   "technology.names.watermagic": "Water Magic",
   "technology.names.frostwork": "Frostwork",
   "technology.names.polarwarfare": "Polar Warfare",
+  "technology.names.icefishing": "basic",
+  "technology.names.sledding": "basic",
   "technology.names.polarism": "Polarism",
   "technology.names.hydrology": "Phycology",
   "technology.names.oceanology": "Oceanology",
   "technology.names.recycling": "Decomposition",
   "technology.names.shock": "Shock Tactics",
+  "technology.names.pescetism": "basic",
   
   "techview.info": "Tech costs increase for each city in your empire. Research a tech to unlock the Abilities, Units, and Skills it offers.",
   "techview.info.literacy": "Literacy reduce the price of all technologies by 33%.",
@@ -954,7 +972,7 @@
   
   
   "action.info.attack": "make an attack with this unit. Select the unit and tap any of the RED targets if you want to attack",
-  "action.info.recover": "Rest",
+  "action.info.recover": "Recover",
   "action.info.healothers": "Heal Others",
   "action.info.train": "train a unit in this city. Units can be used to explore the world and to attack enemies and defend your cities",
   "action.info.move": "move this unit. Select the unit and tap any of the BLUE targets",
@@ -1064,7 +1082,7 @@
 
   
   
-  "gamestats.gamemode": "Game mode: {0}",
+  "gamestats.gamemode": "Gamemode: {0}",
   "gamestats.bonus": "Difficulty bonus: {0}",
   "gamestats.speed": "Speed skills",
   "gamestats.speed.info": "{0}/{1} turns",
@@ -1097,6 +1115,10 @@
   "settings.tribemusic": "Tribe Music",
   "settings.suggestions": "Suggestions",
   "settings.info": "Info on Build",
+  "settings.replay.enablefog": "Replay Fog",
+  "settings.replay.sharedfog": "Shared Fog",
+  "settings.replay.autofocus": "Autofocus",
+  "settings.info": "Info on Build",
   "settings.confirm": "Confirm turn",
   "settings.saveexit": "EXIT TO MENU",
   "settings.on": "ON",
@@ -1104,7 +1126,7 @@
   "settings.showadvanced": "Reveal Advanced Settings",
   "settings.hideadvanced": "Hide Advanced Settings",
   "settings.language": "Language",
-  "settings.restartlanguage": "Please restart Polytopia to fully switch language",
+  "settings.restartlanguage": "It is recommended to restart Polytopia to fully switch language",
   "settings.language.load.title":"Custom language (BETA)",
   "settings.language.load.info":"Load a Polytopia language file from a remote server using HTTPS. This is an experimental feature, not for the faint hearted.",
   "settings.language.load.input":"Language file url:",
@@ -1451,6 +1473,7 @@
   "credits.qa": "Quality Assurance",
   "credits.community": "Community Manager",
   "credits.managment": "Management",
+  "credits.helpOverTheYears": "Help Over the Years",
   "credits.debuginfo": "Debug info",
   "credits.build": "Build version",
   "credits.os": "OS",
