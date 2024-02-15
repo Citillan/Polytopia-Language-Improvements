@@ -504,8 +504,8 @@
   "unit.abilities.hide": "Hide",
   "unit.abilities.infiltrate": "Infiltrate",
   "unit.abilities.detect": "Detect",
-  "unit.abilities.stiff": "stiff",
-  "unit.abilities.stomp": "crush",
+  "unit.abilities.stiff": "Stiff",
+  "unit.abilities.stomp": "Crush",
   
   
   
@@ -942,7 +942,7 @@
   "technology.names.meditation": "Meditation",
   "technology.names.philosophy": "Philosophy",
   "technology.names.mining": "Mining",
-  "technology.names.smithery": "Metallurgy",
+  "technology.names.smithery": "Forging",
   "technology.names.aquaculture": "Aquaculture",
   "technology.names.riding2": "Free Swimming",
   "technology.names.freediving": "Free Diving",
@@ -958,7 +958,7 @@
   "technology.names.oceanology": "Oceanology",
   "technology.names.recycling": "Decomposition",
   "technology.names.shock": "Shock Tactics",
-  "technology.names.pescetism": "pescetism",
+  "technology.names.pescetism": "Pescetism",
   
   "techview.info": "Tech costs increase for each city in your empire. Research a tech to unlock the Abilities, Units, and Skills it offers.",
   "techview.info.literacy": "Literacy reduce the price of all technologies by 33%.",
